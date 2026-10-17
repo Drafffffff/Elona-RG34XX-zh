@@ -1,0 +1,35 @@
+2026-10-12 — rg34xx4 full ARM64 engine, controller events only
+Separate gameplay-state copied from test save; no user save modified.
+PASS quantity display 2/4; after drop inventory=2, pickup inventory=4.
+PASS quantity change then B cancel: inventory remains 4.
+PASS skill direction prompt and B cancel; right into empty cell returns Nothing happens.
+PASS L2 target view, right cursor move, B cancel.
+PASS R2 friendly-fire confirmation: down selects No, A returns.
+PASS Spell/Skill composite switch with R2; spell list empty, actual casting not tested.
+PASS instant direction hat down/center selects English on clean first run; config=en.
+PASS instant up/center selects title exit; A exits.
+PASS save/exit after gameplay tests; source unchanged except own test state.
+Pending: spell casting/enemy combat, large quantities, real device driver/sound/performance/sleep.
+PASS save/restart/reload retains inventory=4 rations.
+PASS left held while B cancels quantity: parent Drop menu stays open, inventory remains 4.
+
+2026-10-12 — rg34xx5 final full ARM64 engine, controller events only
+Local runtime fixture seeds spells/stock/casting skill and hostile putit. Not in production source/runtime.
+PASS: split spell headers rendered with nonempty known-spell list.
+PASS: overcast No/A cancels with MP7 and stock100 unchanged.
+PASS: Heal Light succeeds; stock100->92; MP7->-1; original overcast reaction and heal shown.
+PASS: Magic Dart auto-targets hostile putit three tiles east, damage30, kill; stock100->97; MP7->-1, HP27->23.
+PASS: directional melee hits hostile adjacent putit for4 and enemy retaliates.
+PASS: R2 triggers ranged attacks against enemy; observed misses only, damage not verified.
+PASS: runtime fixture removed, save/restart/reload retains stock92/97 with no fixture initialization.
+PASS: controller unit test and independent source-kit incremental build.
+PENDING: actual device acceptance; no claims about hardware performance/audio/sleep.
+
+2026-10-12 — rg34xx6 final full ARM64 engine, controller events only
+PASS: known-spell list of15, stock12345, long names; page1=8/page2=7.
+PASS: row7 -> next page clamps to row6; R/L cyclic pages; selected effect updates.
+PASS: R2 Skills -> L2 Spells -> B map restores complete HUD.
+PASS: Heal Light selection -> overcast No -> reopen Yes -> successful cast; stock92->88.
+PASS: empty-spell-list A safe, B map; normal save/exit.
+PASS: independent source-kit incremental build, four modified source files identical.
+PENDING: actual RG34XX hardware readability, Mali/EGL, input, audio, sleep and performance.

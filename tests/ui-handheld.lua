@@ -1,0 +1,10 @@
+-- Actual-engine layout regression; use only with a disposable save copy.
+local Event=ELONA.require("core.Event")
+local Input=ELONA.require("core.Input")
+local Debug=ELONA.require("core.Debug")
+Event.register("core.script_loaded",function()
+ Input.prompt_dialog("哦，队长。没什么大不了的，只是在盘问这个形迹可疑的家伙。王子就在附近，守卫哪能在酒馆里也放过可疑人物！……喂，你听见没有？","core.man7","士兵",{"继续"},0)
+ Debug.log("UI15_CENTERED_DIALOG_PASS")
+ Input.prompt_dialog(string.rep("长篇中文内容必须能翻页，每页都要留出选项位置，正文不得覆盖按键提示。",12),"core.man7","长对话",{"选项一","选项二","选项三","选项四","选项五","选项六","选项七","选项八"},0)
+ Debug.log("UI15_PAGED_DIALOG_PASS")
+end)

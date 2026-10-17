@@ -1,0 +1,65 @@
+-- Simplified Chinese, authored for the RG34XX port. Untranslated values retain English.
+ELONA.i18n:add {
+   wish = {
+      what_do_you_wish_for = "你想许什么愿望？",
+      your_wish = "\"{$1}!!\"",
+
+      it_is_sold_out = "已经卖光了。",
+      something_appears = "出现了{itemname($1)}。",
+      something_appears_from_nowhere = "{itemname($1)}凭空出现了。",
+      you_learn_skill = "你学会了{$1}！",
+      your_skill_improves = "你的{$1}技能提升了！",
+
+      wish_gold = "出现了大量金币。",
+      wish_platinum = "出现了白金币。",
+      wish_small_medal = "出现了一些小奖章。",
+      wish_sex = "{name($1)}变成了{$2}！",
+      wish_youth = "这只是个普通愿望。",
+      wish_man_inside = "里面没有神。",
+      wish_god_inside = "里面没有人。",
+      wish_ehekatl = "「喵喵喵！」",
+      wish_lulwy = "「你竟敢呼唤我的名字？」",
+      wish_opatos = "「尚未完成。」",
+      wish_kumiromi = "「尚未完成。」",
+      wish_mani = "「尚未完成。」",
+      wish_death = "如你所愿……",
+      wish_redemption = {
+         you_are_not_a_sinner = "你并非罪人。",
+         what_a_convenient_wish = "真是方便的愿望！",
+      },
+      wish_alias = {
+         impossible = "*笑*",
+         what_is_your_new_alias = "你想取什么新称号？",
+         new_alias = "今后你将以<{$1}>之名闻名。",
+         no_change = "真是浪费愿望！",
+      },
+
+      general_wish = {
+         skill = "技能",
+         item = "物品",
+         card = "卡片",
+         summon = "召唤",
+         figure = "雕像",
+      },
+
+      special_wish = {
+         god_inside = "god inside",
+         man_inside = "man inside",
+         ehekatl = "ehekatl",
+         lulwy = "lulwy",
+         opatos = "opatos",
+         kumiromi = "kumiromi",
+         mani = "mani",
+         youth = {"youth", "age", "beauty"},
+         alias = {"aka", "title", "命名", "alias"},
+         sex = "sex",
+         redemption = {"redemption", "atonement"},
+         death = "death",
+         ally = {"friend", "company", "盟友"},
+         gold = {"金钱", "金色的", "wealth", "fortune"},
+         small_medal = {"coin", "medal", "small coin", "小奖章"},
+         platinum = {"platina", "白金"},
+         fame = "fame",
+      },
+   },
+}

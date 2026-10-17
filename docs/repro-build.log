@@ -1,0 +1,55 @@
+2026-10-12 — isolated source-kit build
+Toolchain: ghcr.io/loveretro/h700-toolchain@sha256:c9d160c407570a771683e6a471757b44f6e155a7df7d1804c70f901ee3890da3
+Only extracted source kit/vendor mounted at /src for compilation.
+Applied current source changes to isolated kit before building.
+PASS prepare-devkit.sh: dependencies, SDL_image, full native engine, test executables. Exit 0.
+PASS final build.sh after last source synchronization. Exit 0.
+PASS source equality for modified character/composite/menu source, build script, media test.
+Build timestamps differ; byte-for-byte reproducibility is not claimed.
+PASS: 18 contextual bindings, diagonal input, L2 chord/focus reset, action dispatch, OSK text/delete/finish/cancel, noncancelable input, overlay rendering
+IMAGE flags=3
+PASS: image codecs, CJK font, MIDI synthesis, SDL audio
+PASS isolated engine launch/reload of existing character and character/skills UI; new character confirmation to OSK.
+
+rg34xx4: PASS isolated build.sh + controller test compile after synchronizing input adapter/context/config/number dialog; exit 0. Modified source files compared equal. Additional focus-loss assertion passed in the primary target SDL test.
+PASS final rg34xx4 isolated build after cancel-state reset; exit 0, final adapter/context/dialog/config files equal.
+
+rg34xx5: ui_menu_spells.cpp and port/build.sh synchronized byte-identically; independent incremental native build PASS.
+
+rg34xx6: spell cpp/header, menu.cpp, build.sh synchronized; independent incremental ARM64 build PASS.
+
+rg34xx7: SDL startup/main/build/package/media test synchronized; independent incremental build and media-test build PASS.
+
+rg34xx9: independent source-kit incremental cross-build PASS
+es are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+
+-- Using ZLIB 1.2.8
+-- Using Iconv
+CMake Warning at CMakeLists.txt:494 (message):
+  Elona 1.22 distribution not found at /src/work/prefix/elona.  The game
+  cannot be run without assets.  Please manually copy the 'graphic' and
+  'sound' directories from Elona 1.22 to the Elona_foobar output path after
+  building.
+
+
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: /src/build/h700
+[  6%] Built target minizip
+[  9%] Built target util
+[ 12%] Built target spider_headless
+[ 15%] Built target network-uri
+[ 23%] Built target snail_sdl
+[ 25%] Building CXX object src/elona/CMakeFiles/elona.dir/input_prompt.cpp.o
+[ 25%] Building CXX object src/elona/CMakeFiles/elona.dir/main_menu.cpp.o
+[ 26%] Linking CXX static library libelona.a
+[ 99%] Built target elona
+[100%] Building CXX object CMakeFiles/Elona_foobar.dir/src/version.cpp.o
+[100%] Linking CXX executable Elona_foobar
+-- Copy mod: core-0.2.6
+-- Copy mod: template_blank-0.1.0
+[100%] Built target Elona_foobar
+

@@ -1,0 +1,507 @@
+{
+  "language": "zh_CN",
+  "stage": "All authored natural-language resources completed; technical exceptions retained",
+  "original_lua_text_leaves": 8445,
+  "changed_lua_text_leaves": 8310,
+  "lua_leaves_containing_chinese": 8291,
+  "unreviewed_latin_lua_leaves": 0,
+  "independent_resources": [
+    "board.txt",
+    "book.txt",
+    "exhelp.txt",
+    "manual.txt",
+    "name.csv",
+    "ndata.csv",
+    "scene.hsp",
+    "talk.txt"
+  ],
+  "reviewed_latin_exceptions": [
+    {
+      "key": "core.action.playtime_report",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "你已经游玩Elona {$1}小时。"
+    },
+    {
+      "key": "core.ai.dragostea_din_tei.sing.1",
+      "reason": "Original foreign-language song vocalization",
+      "value": "「Vrei sa pleci dar♪」"
+    },
+    {
+      "key": "core.ai.dragostea_din_tei.sing.2",
+      "reason": "Original foreign-language song vocalization",
+      "value": "「Numa numa yay!!」"
+    },
+    {
+      "key": "core.ai.dragostea_din_tei.sing.3",
+      "reason": "Original foreign-language song vocalization",
+      "value": "「Numa numa numa yay!!」"
+    },
+    {
+      "key": "core.ai.dragostea_din_tei.sing.4",
+      "reason": "Original foreign-language song vocalization",
+      "value": "「Mai-Ya-Hi♪」"
+    },
+    {
+      "key": "core.ai.dragostea_din_tei.sing.5",
+      "reason": "Original foreign-language song vocalization",
+      "value": "「Mai-Ya-Hoo♪」"
+    },
+    {
+      "key": "core.ai.dragostea_din_tei.sing.6",
+      "reason": "Original foreign-language song vocalization",
+      "value": "「Mai-Ya-Ha Ma Mi A♪」"
+    },
+    {
+      "key": "core.building.home.design.help",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "左键放置地砖，按住Ctrl并左键可填充；右键拾取鼠标下的地砖；用方向键移动光标；按确认键显示地砖列表；按取消键退出。"
+    },
+    {
+      "key": "core.casino.blackjack.desc._1",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "J、Q、K算作10点，A算作1点或11点。"
+    },
+    {
+      "key": "core.chara#core.at.text_100",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "\"Qy@\""
+    },
+    {
+      "key": "core.chara#core.at.text_101",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "\"Qy@!!\""
+    },
+    {
+      "key": "core.chara#core.at.text_102",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "\"Q...Qy...@\""
+    },
+    {
+      "key": "core.chara#core.at.text_103",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "\"Qy@!\""
+    },
+    {
+      "key": "core.chara_making.final_screen.caption",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "A确认角色；B重新生成经历。"
+    },
+    {
+      "key": "core.config.menu.font.doc",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "字体相关设置。TTF字体放在data/font目录；建议使用等宽字体以避免排版问题。"
+    },
+    {
+      "key": "core.config.menu.foobar.doc",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "Elona foobar新增的扩展设置。"
+    },
+    {
+      "key": "core.config.menu.foobar.name",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "foobar扩展设置"
+    },
+    {
+      "key": "core.config.menu.foobar.startup_script.doc",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "启动时运行data/script目录中的脚本。填写脚本文件名，例如my_script.lua。"
+    },
+    {
+      "key": "core.config.menu.input.autodisable_numlock.doc",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "游戏中关闭数字锁定，退出后恢复。可解决Shift与数字键盘移动键的冲突，仅对Windows有效。"
+    },
+    {
+      "key": "core.config.menu.input.joypad.doc",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "原版手柄输入选项尚未实现。本移植的RG34XX实体按键独立适配，无需开启此项。"
+    },
+    {
+      "key": "core.config.menu.mods.doc",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "各模组提供的设置。可通过编辑模组目录中的config-schema.lua文件添加。"
+    },
+    {
+      "key": "core.crafting.menu.x",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "x"
+    },
+    {
+      "key": "core.item.desc.window.error",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "物品定义未知。如有可能，请报告这是从哪个菜单打开了“已知信息”菜单（按X键）的，例如喝水、使用魔杖、吃东西等。"
+    },
+    {
+      "key": "core.item.mauser_c96_custom.name",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "《毛瑟C96改装枪》"
+    },
+    {
+      "key": "core.keybind.escape",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "Esc"
+    },
+    {
+      "key": "core.keybind.menu.conflict.prompt",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "按回车键解除这些绑定，按Esc取消。"
+    },
+    {
+      "key": "core.keybind.menu.prompt",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "请按下一个按键。\n按回车键解除绑定，按Esc取消。\n"
+    },
+    {
+      "key": "core.magic.map.mark",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "O"
+    },
+    {
+      "key": "core.main_menu.about.foobar_changelog",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "Elona foobar更新记录"
+    },
+    {
+      "key": "core.main_menu.about.foobar_homepage",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "Elona foobar主页"
+    },
+    {
+      "key": "core.main_menu.about.vanilla_homepage",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "Elona原版主页"
+    },
+    {
+      "key": "core.main_menu.mod_develop.key_hint",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "A[创建]"
+    },
+    {
+      "key": "core.main_menu.mod_list.info.id",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "ID"
+    },
+    {
+      "key": "core.map.location_changed",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "{$1}的位置已从 x{$2}:y{$3} 移至 x{$4}:y{$5}。"
+    },
+    {
+      "key": "core.meta.default_font",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "NotoSansCJKsc-Regular.otf"
+    },
+    {
+      "key": "core.race#core.fairy.description",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "小妖精可爱、神秘而脆弱，天生擅长施法和闪避。与之相对，他们的体力极差，连很轻的东西也难以携带，无法穿戴重量超过1s的装备。他们对各种元素都有出色的抗性。"
+    },
+    {
+      "key": "core.talk.unique.lomias.tutorial.equip.dialog",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "按Y打开行动菜单，选择装备。被诅咒的装备通常无法卸下，还会产生不利影响。那把弓被诅咒了，用这张解咒卷轴解除诅咒吧。"
+    },
+    {
+      "key": "core.talk.unique.lomias.tutorial.equip.done.dialog._1",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "朝敌人移动就会自动进行近战攻击。装备远程武器和弹药后，R2射击附近目标，L2切换目标，也能从Y行动菜单选择射击。"
+    },
+    {
+      "key": "core.talk.unique.lomias.tutorial.equip.done.dialog._2",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "准备好，我要召唤几只弱小的怪物。尽量用弓消灭它们，保持距离，贴身时弓的效果不好。我放了几瓶药水；受伤就按X，切到喝药页面使用。"
+    },
+    {
+      "key": "core.talk.unique.lomias.tutorial.identify.dialog._2",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "我给你一张鉴定卷轴。按X，切到阅读页面使用它，鉴定刚挖到的金条。"
+    },
+    {
+      "key": "core.talk.unique.lomias.tutorial.movement.ate.dialog._1",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "X打开的背包也能使用其他物品。比如用L2或R2切到阅读页面，再选一本书按A，就能阅读。"
+    },
+    {
+      "key": "core.talk.unique.lomias.tutorial.movement.ate.dialog._2",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "接下来讲讲Y打开的行动菜单。"
+    },
+    {
+      "key": "core.talk.unique.lomias.tutorial.movement.dialog._0",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "先说移动：按方向键行走，同时按两个方向可以斜走。L等待一回合，R拾取脚下物品，L2选择目标。MENU随时查看掌机按键表。"
+    },
+    {
+      "key": "core.talk.unique.lomias.tutorial.movement.dialog._1",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "行动虽然很多，但通常用X打开背包、Y打开行动菜单、A确认，就能完成操作。"
+    },
+    {
+      "key": "core.talk.unique.lomias.tutorial.movement.dialog._3",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "这块肉给你。按X打开背包，用L2或R2切换到吃东西的页面，再选择地上的肉并按A。"
+    },
+    {
+      "key": "core.talk.unique.lomias.tutorial.skills.dialog._0",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "按Y可以选择技能、撞击、挖掘等行动。撞门可以破坏门锁，撞树可能掉落果实，也能撞醒睡着的人——当然，对方不会高兴。"
+    },
+    {
+      "key": "core.talk.unique.lomias.tutorial.skills.dialog._1",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "脚下有物品时，R可以拾取。其他互动可在Y行动菜单中选择；MENU按键表列出了完整操作。"
+    },
+    {
+      "key": "core.talk.unique.lomias.tutorial.skills.dialog._2",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "现在试试挖墙。按Y，在行动菜单中选择挖掘，然后选一个方向。"
+    },
+    {
+      "key": "core.trait._161.positive.levels._0",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "你无法穿戴重量超过1s的装备。[闪避力++]"
+    },
+    {
+      "key": "core.trait.window.enter",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "A[获取天赋]"
+    },
+    {
+      "key": "core.ui.appearance.hint",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "左右[调整]  B[完成]"
+    },
+    {
+      "key": "core.ui.board.difficulty_counter",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "$ x {$1}"
+    },
+    {
+      "key": "core.ui.chara_sheet.hint.confirm",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "B[确认]"
+    },
+    {
+      "key": "core.ui.chara_sheet.hint.learn_skill",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "A[学习技能]  "
+    },
+    {
+      "key": "core.ui.chara_sheet.hint.reroll",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "A[重新随机]  "
+    },
+    {
+      "key": "core.ui.chara_sheet.hint.spend_bonus",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "A[分配技能点]  "
+    },
+    {
+      "key": "core.ui.chara_sheet.hint.train_skill",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "A[训练技能]  "
+    },
+    {
+      "key": "core.ui.hint.back",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "B[返回]  "
+    },
+    {
+      "key": "core.ui.hint.close",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "B[关闭]  "
+    },
+    {
+      "key": "core.ui.hint.enter",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "A："
+    },
+    {
+      "key": "core.ui.hint.portrait",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "p[肖像]  "
+    },
+    {
+      "key": "core.ui.message.key_hint",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "上下滚动，左右翻页，B关闭"
+    },
+    {
+      "key": "core.ui.npc_list.title",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "NPC列表"
+    },
+    {
+      "key": "core.ui.unit_of_weight",
+      "reason": "Reviewed name, key, abbreviation, symbol or technical path",
+      "value": "s"
+    },
+    {
+      "key": "core.wish.special_wish.alias.1",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "aka"
+    },
+    {
+      "key": "core.wish.special_wish.alias.2",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "title"
+    },
+    {
+      "key": "core.wish.special_wish.alias.3",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "命名"
+    },
+    {
+      "key": "core.wish.special_wish.alias.4",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "alias"
+    },
+    {
+      "key": "core.wish.special_wish.ally.1",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "friend"
+    },
+    {
+      "key": "core.wish.special_wish.ally.2",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "company"
+    },
+    {
+      "key": "core.wish.special_wish.ally.3",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "盟友"
+    },
+    {
+      "key": "core.wish.special_wish.death",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "death"
+    },
+    {
+      "key": "core.wish.special_wish.ehekatl",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "ehekatl"
+    },
+    {
+      "key": "core.wish.special_wish.fame",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "fame"
+    },
+    {
+      "key": "core.wish.special_wish.god_inside",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "god inside"
+    },
+    {
+      "key": "core.wish.special_wish.gold.1",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "金钱"
+    },
+    {
+      "key": "core.wish.special_wish.gold.2",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "金色的"
+    },
+    {
+      "key": "core.wish.special_wish.gold.3",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "wealth"
+    },
+    {
+      "key": "core.wish.special_wish.gold.4",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "fortune"
+    },
+    {
+      "key": "core.wish.special_wish.kumiromi",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "kumiromi"
+    },
+    {
+      "key": "core.wish.special_wish.lulwy",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "lulwy"
+    },
+    {
+      "key": "core.wish.special_wish.man_inside",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "man inside"
+    },
+    {
+      "key": "core.wish.special_wish.mani",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "mani"
+    },
+    {
+      "key": "core.wish.special_wish.opatos",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "opatos"
+    },
+    {
+      "key": "core.wish.special_wish.platinum.1",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "platina"
+    },
+    {
+      "key": "core.wish.special_wish.platinum.2",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "白金"
+    },
+    {
+      "key": "core.wish.special_wish.redemption.1",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "redemption"
+    },
+    {
+      "key": "core.wish.special_wish.redemption.2",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "atonement"
+    },
+    {
+      "key": "core.wish.special_wish.sex",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "sex"
+    },
+    {
+      "key": "core.wish.special_wish.small_medal.1",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "coin"
+    },
+    {
+      "key": "core.wish.special_wish.small_medal.2",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "medal"
+    },
+    {
+      "key": "core.wish.special_wish.small_medal.3",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "small coin"
+    },
+    {
+      "key": "core.wish.special_wish.small_medal.4",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "小奖章"
+    },
+    {
+      "key": "core.wish.special_wish.youth.1",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "youth"
+    },
+    {
+      "key": "core.wish.special_wish.youth.2",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "age"
+    },
+    {
+      "key": "core.wish.special_wish.youth.3",
+      "reason": "Runtime wish command/alias; retained for matching",
+      "value": "beauty"
+    }
+  ],
+  "limitations": [
+    "Original song vocalizations and runtime command tokens retained",
+    "Existing save names and message history are not rewritten",
+    "ASCII virtual keyboard; no Chinese input method",
+    "This audit verifies shipped resources, not every possible game event on hardware"
+  ],
+  "source": "Authored for this port; no third-party Chinese patch imported"
+}

@@ -1,0 +1,479 @@
+####################### Reference #######################
+
+	/Area Code Reference/
+areaVernis		5
+areaHome		7
+areaRandDungeon		8
+areaGraveyard		10
+areaKapul		11
+areaYowyn		12
+areaRogueDen		14
+areaPalmia		15
+areaShrine		20
+areaCyberDome		21
+areaHighMountain	25
+areaSister		29
+areaShelter		30
+areaRanch		31
+areaOffice		32
+areaNoyel		33
+areaSmith		34
+areaShowHouse		35
+areaLumiest		36
+
+
+	/Japanese Conversion List/
+{ある}		ある、あります
+{う}		う、います
+{か}		か、ですか
+{が}		が、ですが、けど
+{かな}		かな、ですか、かしら	
+{くれ}		くれ、ください
+{だ}		だ、です
+{だな}		だな、ですね
+{だろ}		だろう、でしょう
+{たのむ}	たのむ、お願いします
+{のだ}		のだ、んだ、のです
+{よ}		よ、ですよ
+{な}		な、ね、ですね
+{る}		る、ます
+
+
+	/Translation Note/
+Text written after %xxx,x,简中 will be displayed in the English version of Elona.
+See /Vernis for example. The translation doesn't have to be precise.
+You can even add your own sentences if you like to. 
+
+You can completely ignore the use of {} when translating. (ie. {だ},{だな} )
+Those are structures which are used for some Japanese conversions.
+They also convert the code into designated in-game variable. 
+The codes are listed below.
+
+{player}	player's name
+{aka}		player's nickname(aka)
+{npc}		the name of the person player is talking to
+{me}		"I"
+{you}		"you"
+{objective}	quest:objective
+{reward}	quest:reward
+{ref}		quest:refer
+{map}		quest:map name
+{client}	quest:client name
+
+
+	/Editing Tips/
+* When testing, save your game infront of a NPC and use defLoadFolder. setting in the config.json to quick load/launch the game.
+
+
+	/Sunstrike/
+I have revised the entire text for consistency with the Japanese, and consistency for storyline, names, etc.  More importantly, I have rewritten all the lines to sound more natural and more original.
+
+
+	/Lord Nightmare's notes/
+The default english vernis translations do not completely match the originals, but this seems to be intentional.
+Regardless, I've tried my best to make each line correspond 1:1, but I had to add more information to a few of them.
+I'm also having trouble translating a few, google's translator is somewhat lousy. Look for the TODO lines.
+BMT means 'bad machine translation'
+Also I have no idea where the cyber dome line came from, It doesn't seem to appear in the original text, although it does make sense. I left it, but stuck an extra space before it. I also added an alternative to one of the other lines.
+
+Translated ?hiragana? -> english:
+VERUNISU		Vernis
+Jors/IERUSU		Yerles
+EUDANA			Eulderna
+RESHIMASU		Lesimas
+YOUIN			Yowyn
+DULLFY or DARUFI	Derphy
+PARUMIA			Palmia
+JABI			Xabi
+SUTASHA 		Stersha
+NOSUTIRISU      	North Tyris
+UU			?Ooh?
+KURIMUERU		Crim Ale
+NEFIA			Nefia
+Shin			??? mybe 'new'
+Kita			??? maybe 'north'
+DANJO			Dungeon
+RUMIESUTO		Lumiest
+RAHUAERO		Raphael
+
+Note:
+The Yowin, Derphy, Palmia, Noyel and Lumiest texts are added from the user created content on the japanese wiki, as are a few random other lines. The original talk.txt doesn't even have the JAPANESE text for those!
+
+Note 2:
+I haven't marked the conversation/personality texts as BMT or whatnot.
+
+Note 3: Personality: whoever translated this originally never sorted the translated lines into the subcategories/personalities where they belong.
+I did this whenever I could figure out what was supposed to go where. The ones I couldn't figure out I left at the end.
+
+Note 4: I'm not sure whether I should use ... for ellipsis, or the character meant for that, '・.
+Special thanks to gridle for helping with a number of the lines which google translate choked on. babelfish isn't much better.
+
+
+####################### Begin ######################
+
+####################### Area #######################
+
+
+%AREA,5,简中			/Vernis
+欢迎来到韦尔尼斯！
+韦尔尼斯周围的矿山给我们这个小社区带来了大量财富。多亏了矿山，大家的日子蒸蒸日上！
+韦尔尼斯虽然只是座煤矿镇，却有着悠久而辉煌的历史。
+换作是我，只要罗伊特还在酒吧，就绝不敢在那里弹钢琴。别怪我没提醒你。
+我们已经被耶尔斯与艾尔达纳之间的战争卷入交火好一阵子了。
+听说莱西玛斯发现了非常珍贵的东西。
+听说有办法学到新技能。去镇中心东边找训练师看看吧。
+小心别带太多东西。用不上的物品最好卖掉。
+墓地附近的怪人？别理那个废物。他是个无可救药的瘾君子，我敢肯定还是个酒鬼。
+米切斯迷恋布偶，简直沉迷于收集它们。
+东边的道路通往帕尔米亚首都。
+希娜的屁股翘得能弹起硬币。她到底怎么保持这么好的身材？
+最近小偷闹得很凶。
+住在赛博穹顶里的人真古怪，简直一群怪胎！
+韦尔尼斯是整个北提里斯已知唯一的煤炭产地。我们可赚翻了。
+你要去帕尔米亚？沿着东边的路走就行。
+所有人都喜欢希娜的屁股。
+%END
+
+
+
+
+%AREA,11,简中			/Kapul 
+啊，没有什么比海风咸咸的气息更让人舒畅了。
+我最爱看宠物竞技场里的残酷搏斗。不过得小心，有时观众会被流弹击中，或被粗心的龙撞到。但你知道，危险也是刺激的一部分。
+拉斐尔是所有女人的公敌。
+想接受战士能得到的最佳训练，就去竞技场办公室下面的战士公会看看。
+海产货物运到内陆后价格会高很多。 
+不知道怎样才能进入镇子北边的金字塔。我听说有人去过，可他们再也没回来。
+听说最阴险、最可怕的人都往德尔菲去。我不知道那里在哪儿，不过我们这里的小偷和流浪汉也不少，或许离这儿不远。
+%END
+
+
+
+
+%AREA,12,简中			/Yowyn
+这座村子叫约恩村。
+这里卖的马是全国最好的。
+收获季节我们总是缺人手。我敢说镇上的人都很乐意让你来帮忙。
+有时那些恶徒洗劫农场、杀了牲畜后，会朝西边逃去。不知道那边究竟有什么。
+出镇向东，再沿路往北，就能到帕尔米亚王国的首都。不过要小心那座古堡，那里很奇怪。听说靠近的人有时会被从艾斯·泰尔时代遗留下来的古代机器射杀。
+村长总说西南边有座破旧古堡。那个老家伙净编些离谱故事。
+约恩村的经济规模不大，不过棺材做得非常好。有时帕尔米亚的贵族会派侍从来这里购买。
+乡间的空气清新又充满生机。什么也别想让我离开这里。%END
+
+
+
+
+%AREA,14,简中			/Derphy
+欢迎来到德尔菲，这座肮脏之城是败类与恶棍的巢穴。
+诺耶尔疯了。要是有机会，她会一口咬掉小猫的脑袋。她杀生、散播混乱，只为寻开心。我不介意小偷，但她实在太过火了。
+这里聚集着许多小偷。他们在赌场地下有个据点，但不会随便让人进去。
+奴隶买卖非常赚钱。许多人说它邪恶，可要是没有奴隶耕种田地，就连强大的帕尔米亚经济也会崩溃。
+没有什么比竞技场的血腥比赛更精彩。想让观众兴奋，就给他们多来点戏剧性和鲜血。
+德尔菲没有城镇卫兵，所以我们想做什么都行！
+%END
+
+
+
+
+%AREA,15,简中			/Palmia
+帕尔米亚太大了，我总是在城里迷路。有时候想找个人都难。
+米娅到底怎么了？她好奇怪。真希望她能学会好好说话，那会有帮助。
+我完全听不懂米娅在说什么。
+欢迎来到帕尔米亚首都！我们的王国历史悠久，繁荣昌盛。
+扎比国王和斯特莎王后真是天造地设的一对。
+本地特产之一是玩具，贵族常买给孩子。镇中心有卖玩具的机器，弄些硬币来，说不定你也能抽到很棒的玩具。
+过去五十年里，以太风越来越强，也愈发危险。祖父总说从前的以太风很弱。要是它们继续增强，我们可能不得不离开家园。
+朋友告诉我北边有座古代堡垒，不知道是不是真的。
+帕尔米亚经常举办宴会。贵族们总能找个借口挥金如土，喝酒庆祝。
+%END
+
+
+
+
+%AREA,30,简中			/Shelter
+我无聊死了！
+这糟糕的天气什么时候才会结束？
+希望天气快点好转。
+这地方无聊得像一袋碎石头。
+这座避难所是镇上所有人集资建成的。
+幸好有这座避难所，否则我们绝对熬不过以太风。
+我们有大把时间待在这里，常常一住就是好几天。我想，我们一半以上的怀孕都是在这里开始的。
+还挺刺激的！
+我们储备了很多食物，真有必要的话，在这里待几个月也没问题。
+%END
+
+
+
+
+%AREA,33,简中			/Noyel
+这里冷得比井里吊着的死神老二还冻人。不过嘛，欢迎来到诺耶尔。
+积雪从不消融，但我们还得把它铲开才能通行。
+你看见教堂旁的巨人了吗？听说他叫艾本。
+你可以在教堂忏悔。我想不出还有什么方式比这更能赎罪。
+我快冻僵了，手指都没知觉了。
+前些日子我在诺耶尔南边看到一座小屋，看起来像是什么作坊。
+谁会在这种地方建城啊？我怎么这么倒霉，偏偏生在这里？
+%END
+
+
+%FEST,33,简中			/NoyelFestival
+欢迎来到圣夜祭！好好享受吧！
+圣夜祭也叫朱亚祭，是为纪念治愈女神、庆祝岁末而举行的节日。
+听说莫耶正在为祭典准备一件展品。
+你见过朱亚那尊宏伟的天界雕像了吗？啊，她真是位美人！
+今晚我要和恋人见面！
+每年这个时候，许多游客专程来镇上参加祭典。
+圣夜祭历史悠久。据说帕尔米亚王室过去也会来这座小镇，向圣朱亚祈祷。
+传说朱亚之泪能治愈一切疾病。过去有许多人见证过她的奇迹，比如一位失明老妇重见光明，难以置信吧？
+%END
+
+
+
+
+%AREA,36,简中			/Lumiest
+鲁米艾斯特是一座文化艺术之城。欢迎来到我们美丽的城市。
+听说有座城镇以温泉闻名。
+在鲁米艾斯特，想在哪儿钓鱼都行。鱼群多得惊人，似乎永远也不会变少。不过我偶尔也想吃个汉堡。
+聊上几个小时的绘画我也不嫌腻。
+法师公会的藏书室就在这里。整个北提里斯，只有这里能找到最冷门法术的书。
+听说下水道里住着可怕的东西。不过那里臭气熏天，我才不会下去。
+%END
+
+
+
+####################### Personality #######################
+
+
+%DEFAULT,简中
+“萌”就是“好可爱”的意思。
+我无事可做。
+{aka}？没听说过你。
+{aka}！你说你就是{aka}？！……不，没听说过这个名字。那是什么？
+嘿，你不是那个闪闪发光的怪人吗？不是？那是警惕的彩虹？也不是？那你的代号是什么？{aka}？真是个蠢名字。
+有人说文戴尔森林是以太风的源头。倒也不是不可能，不过听着有点荒唐。
+没有诸神，我们的生活就毫无意义。
+北提里斯遍布遗迹与地城，它们属于早已失落的奈菲亚文明。
+我无聊死了！
+你是冒险者吧？有远方的消息吗？
+干完活来杯蔓莓酒，最惬意不过了。
+猫咪……怎么能这么可爱？
+你在看什么？
+据说扎纳恩王子正计划对文戴尔森林发动大规模袭击。
+以太瘟疫从一片土地蔓延到另一片土地。它始于文戴尔森林，并摧毁了东方的卡鲁恩。幸好广阔的中央海洋在一定程度上挡住了风。我无法想象北提里斯的任何国家能在那场灾难中幸存。
+啊，又是一个来寻求财富的冒险者。
+嗯？你想要什么？
+听说提里斯南部暴乱不断、不适宜居住。谁知道那里潜伏着什么恐怖之物。
+%END
+
+
+
+%PERSONALITY,0,简中		/dull character
+扎比国王一言九鼎，什么事都可以信任他。
+我想喝蔓莓酒喝到死！
+兔尾巴还有什么别称？
+听说扎比国王是位贤明之君。
+有时我会把蔓莓酒喝到不省人事。
+猫咪……怎么能这么可爱？
+耶尔斯是一个新近崛起的王国。
+艾尔达纳是最早探索并研究奈菲亚遗迹的国家。
+不知道店主是不是真的无敌……
+看来终究有办法得知神器的位置。
+饥饿的海狮最爱吃鱼。
+生病时好好睡觉休息！我奶奶说祝福过的治疗药水也管用。
+%END
+
+
+
+
+%PERSONALITY,1,简中		/economist
+金钱推动世界运转。我该去哪里再弄些钱呢？
+金钱与货币对社会至关重要。 
+你有什么好的投资点子吗？
+我对经济学很感兴趣。 
+白金币比黄金稀有得多，花的时候要精打细算。 
+艾尔达纳总是背负巨额赤字，却似乎从未因此放慢脚步。不过他们不能永远这样凭空变出钱来。
+扎纳恩战后恢复了君主制，但国内仍沿用艾斯·泰尔时代过时的体制。
+%END
+
+
+
+
+%PERSONALITY,2,简中		/scientist
+希耶拉·提尔是伊尔瓦的第十一纪元。
+你嗑药了吗？伊尔瓦当然是我们的世界。
+北提里斯遍布遗迹与地城，它们属于早已失落的奈菲亚文明。
+艾斯·泰尔第八纪的科学远比我们先进。
+在艾斯·泰尔，人们认为魔法与科学彼此对立。
+我喜欢谈论科学。 
+韦尔尼斯是北提里斯最大的煤矿城镇。
+鲁米艾斯特是著名的艺术之都。 
+%END
+
+
+
+
+%PERSONALITY,3,简中		/adventurer
+出门时一定要带足食物，饿死可真是凄惨的结局。
+永恒联盟……？没听说过。 
+希耶拉·提尔是第十一纪元。
+我喜欢旅行，已经去过许多地方。
+独自冒险太艰难的话，就去德尔菲买几个奴隶替你照应。
+别把想留着的东西扔进商店，它们很可能会被卖掉！
+你可以把物品安全地存放在自己的建筑里。
+把物品丢在城镇里，清洁工很可能会把它们扔掉。
+善恶值太低，卫兵就会攻击你。至少*尽量*低调行事。
+宠物或同伴在战斗中倒下后，镇上的酒保可以让他们复活。
+记得给同伴和宠物配备好装备，这样他们在战斗中会更有用。
+确实有能逆转以太风影响的药水，不过非常稀有，也很贵重。
+打算买建筑的话，不妨从博物馆开始。维护费低，而且很快就能盈利。
+竞技场是你获取收入和名声的最佳途径之一。
+旅行很困难的话，也许该有意降低名声。
+赌博箱很适合练习开锁。
+%END
+
+
+
+####################### Rumor #######################
+
+
+%RUMOR,LOOT,简中
+据说吃兔尾巴能带来好运。
+据说有些乞丐带着能净化胃部的魔法吊坠。
+僵尸有时会掉落奇怪的药水。
+我曾遇见一位非凡的吟游诗人，演奏的弦乐器精妙绝伦。他弹得太好了，我甚至把昂贵的鞋子朝他扔了过去！
+听说木乃伊带着一本能让死人复生的书。
+我发誓亲眼见过。刽子手被砍掉脑袋后竟然又活了过来！
+凝视畸形之眼的人会发生变异。不过据说有时眼睛里会藏着让生物进化的药水。
+妖精身上藏着秘密经验！
+别小看投石怪，它的石块能致人于死地。
+那些银眼女巫十分危险。面对她们巨大的剑，你毫无胜算。听说她们并非完全是人类，而且其中一人据说带着更加致命的武器。
+我见过一个丘比特扛着非常沉重的……东西。
+我在梦里遇见了我的神！
+要是遇到戴着黄色项链的四臂怪物，最好拼命逃跑。
+流浪刺客有时会携带能让你额外攻击一次的魔法项链。
+有些贵族喜欢收集奇怪的东西。
+参加宴会时小心醉汉！他们有时会朝你扔些奇怪的东西。
+我见过一个机器人穿着红色板甲护腰。
+小恶魔携带的魔法卷轴能改变神器的名字。
+约恩村那位天真的少女藏着一件宝物。
+前些日子，我见到一只寄居蟹背着从未见过的美丽贝壳。
+听说那些抢劫的混蛋都染上了某种毒瘾。
+%END
+
+
+
+####################### Shop #######################
+
+
+%SHOPKEEPER,简中			/common shopkeeper
+欢迎光临！
+我们这里货品最齐全！
+我讨厌小偷。当然，我不是说你，对吧？
+经营商店真不容易。
+强盗我自己能对付。我们必须强硬些。
+开店可真是辛苦活！
+进来看看我的商品吧。
+我对自己的货品很有信心。
+看看我们精选的好货。
+我觉得这个世界越来越危险了。
+你的武器和护甲没完全鉴定的话，我可没法给公道价。
+%END
+
+
+%SLAVEKEEPER,简中			/slave shop
+嘿嘿，我想我这里正好有你需要的东西。
+别那样看着我。
+你有什么毛病？
+%END
+
+
+%BITCH,简中			/prostitute
+嘿，帅哥，要不要放松一下？
+%END
+
+
+%MOYER,简中			/trader in noyel
+瞧瞧！你眼前这只怪物，就是在奈菲亚的维隆统治了一个世纪、臭名昭著的火焰巨人。今天能看到他被锁在这里，你真是太幸运了！要不是这些魔法锁链束缚着他，这怪物早就把整座村庄烧成灰烬。来我店里买些东西，我甚至可以让你摸摸这头可怕的巨人！
+别担心。他被锁链铐着，动弹不得。
+%END
+
+
+%MAID,简中
+欢迎回家，{player}。有{ref}正在等你。现在要会见来客吗？
+%END
+
+
+####################### Special #######################
+
+
+%BORED,简中			/when bored 
+（{npc}显得很无聊。）
+（{npc}瞥了你一眼，向后退了一步。）
+%END
+
+
+
+
+%ALLY_DEFAULT,简中		/ally
+（{npc}目不转睛地看着你。）
+...?
+你有什么事吗？
+你想要什么？
+怎么了？
+有什么不对吗？
+什么事？
+%END
+
+
+
+%COOKIE1,简中
+在牧场晾干鲜肉，就能制成口粮肉干。
+信奉库米罗米的话，或许能在腐肉里找到种子。
+德尔菲附近的牧场可能非常赚钱。
+千万别把材质工具浪费在普通物品上！
+草药喂给宠物吃才最有价值。
+好工具能让技能发挥更好；睡在好床上也会做美梦。
+善恶值高，税金就会降低。
+怪物粪便越重，店主出的价越高。
+祝福过的降级药水能提升等级。
+喝下诅咒治疗药水有时会生病。
+想学新技能，就读一张祝福过的属性获得卷轴。
+对失明的敌人更容易打出会心一击。
+敌人中毒、流血或麻痹时都无法恢复。
+立方体处于异常状态时不会分裂。
+对神器使用优质材质卷轴，可以重新生成神器。
+提高音耐性可以防止失明。
+提高精神耐性可以防止发疯。
+祝福魔杖是个好主意，不过效果不如祝福药水或卷轴明显。
+潮湿时不必担心火焰伤害，但电击会变得非常危险。
+短时间内呕吐太多会患上厌食症。患病后别吃东西，只喝药水和水。
+祝福过的身体恢复药水或精神恢复药水能强化身体或精神。
+把诅咒的身体恢复药水或精神恢复药水扔向强敌。
+喝赫尔墨斯之血前，*一定要*先祝福它！
+施放归还术时出了差错，后果会很糟。
+%END
+
+
+%COOKIE2,简中
+如果叫宁芙的真名“罗蕾莱”，她会非常高兴。
+额外手指戒指没有附魔就毫无用处。
+把法杖放一会儿，它也许会重新充能。
+不知道该许什么愿？试试米拉斯的秘密神器吧。
+宝石可以兑换白金币。
+读藏宝图前一定要先祝福它。
+喵……喵呜……
+学会游泳后，就能游到另一块大陆。
+你想许什么愿？
+在聊天窗口喊“卫兵！”，他们也许很快就会来帮忙。
+有办法让神成为你的宠物。
+进入月门时，会有玩家杀手等着你。
+哎呀，真遗憾。虽然不想这么说，但读到这条占卜的人*一定*会被诅咒。
+小心背后！当心！那、那里有你的妹妹！快跑！
+喵呜，砰砰砰！
+存档已损坏，游戏无法选出有效的占卜结果。
+据说杀猫会带来厄运。
+据说开宝箱前读一张祝福过的神谕卷轴，就能得到附魔更好的装备。
+赤身裸体地痛打卫兵，会让他们很高兴。
+据说有一件终极神器只有妹妹们能拥有。
+游泳技能只能通过许愿学会。
+%END

@@ -1,0 +1,2 @@
+IMAGE flags=3
+PASS: image codecs, CJK font, MIDI synthesis, SDL audio

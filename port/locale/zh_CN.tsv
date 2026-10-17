@@ -1,0 +1,2628 @@
+Reroll	重新随机
+Welcome traveler, I've been looking for you.	旅人，欢迎。我一直在等你。
+Race Selection	选择种族
+Race	种族
+Detail	详情
+Attribute Bonus	属性加成
+None	无
+Best	极高
+Great	很高
+Good	较高
+Not bad	尚可
+Normal	普通
+Little	较低
+Slight	很低
+Trained Skill	擅长技能
+Proficient in 	擅长：
+What's your gender?	请选择性别。
+Gender Selection	选择性别
+Gender	性别
+Your class and race determine growth rate of your skills and attributes.	种族与职业决定属性和技能的成长。
+Class Selection	选择职业
+Class	职业
+You should prepare well, if you want to survive long enough in Irva.	想在伊尔瓦生存，就得做好准备。
+Attributes	属性
+Proceed	继续
+Attb Reroll	重掷属性
+Min Roll	最低值
+Locked items will\nnot change.	锁定的属性\n不会改变。
+Locks left	剩余锁定
+Choose your feats wisely.	请选择天赋；选满后自动继续。
+Choose your Alias.	请选择称号。
+Alias Selection	选择称号
+Lock Alias	锁定称号
+Alias List	称号列表
+What you look like? Don't worry, you can change them later.	调整外貌，以后也可以修改。
+Hit the enter key to reroll your personal history.	A确认角色；B重新生成经历。
+Are you satisfied now?	对这个角色满意吗？
+Yes	是
+No	否
+Restart	重新创建
+Go back	返回
+Last question. What's your name?	最后，请输入你的名字。
+Restore an Adventurer	继续冒险
+Generate an Adventurer	创建角色
+Incarnate an Adventurer	继承转生
+About	关于
+Options	设置
+Mods	模组
+Exit	退出
+Which save game do you want to continue?	请选择要继续的存档。
+Game Selection	选择存档
+BackSpace [Delete]  	退格键[删除]  
+No save files found	没有找到存档
+Do you really want to delete {$1} ?	确定删除存档「{$1}」吗？
+Are you sure you really want to delete {$1} ?	再次确认：永久删除「{$1}」？
+Which gene do you want to incarnate?	请选择要继承的基因。
+Gene Selection	选择基因
+No gene files found	没有找到基因文件
+Vanilla Elona Homepage	Elona原版主页
+Elona foobar Homepage	Elona foobar主页
+Elona foobar Changelog	Elona foobar更新记录
+License	许可证
+Credits	制作名单
+Changelogs	更新记录
+List	列表
+Develop	开发
+Installed Mods	已安装模组
+Download Mods	下载模组
+(No README available.)	（没有说明文件。）
+Information	信息
+Name	名称
+Author	作者
+Version	版本
+Description	说明
+Could not download mod list.	无法下载模组列表。
+[Enable/Disable]	[启用/禁用]
+[Mod Info]	[模组信息]
+[Switch To Download]	[查看可下载模组]
+[Switch To Installed]	[查看已安装模组]
+Let's create a mod.	创建一个模组。
+Enter [Create]	A[创建]
+No template found	没有找到模板
+'{$1}' is invalid. Only letters, digits, and underscore are allowed.	「{$1}」无效，只能使用字母、数字和下划线。
+Mod '{$1}' already exists.	模组「{$1}」已存在。
+Mod '{$1}' was successfully created!	已创建模组「{$1}」！
+Nothing happens...	什么也没有发生……
+Something is put on the ground.	有什么东西落在了地上。
+You put {itemname($1, 1)} in your backpack.	你将{itemname($1, 1)}放进了背包。
+It's impossible.	无法这样做。
+No..	不……
+Bye bye.	再见。
+(More)	（继续）
+*saving*	*保存中*
+{$1}:{$2}:{$3} Sec	{$1}:{$2}:{$3}
+App focus was lost. Quicksaving game.	窗口失去焦点，正在快速保存。
+{$1}h	{$1}时
+ gold pieces	金币
+ platinum pieces	白金币
+(You don't have enough money!)	（你的钱不够！）
+There's no valid target in that direction.	那个方向没有有效目标。
+You have assigned the shortcut to {{{$1}}} key.	已将快捷键设为{{{$1}}}。
+cursed	被诅咒的
+blessed	受祝福的
+doomed	堕落的
+Change	切换
+Chara	角色
+Wear	装备
+Feat	天赋
+Material	素材
+Spell	魔法
+Skill	技能
+Log	消息记录
+Journal	任务日志
+Chat	聊天
+Chart	图表
+City	城市
+Law	法律
+Help	帮助
+Rest	休息
+Fire	射击
+Dig	挖掘
+Pray	祈祷
+Ammo	弹药
+Interact	互动
+Bash	撞击
+Info	信息
+Action	行动
+Etc	其他
+Cursor [Select]  	方向键[选择]  
+ [Page]  	[翻页]  
+Shift,Esc [Close]  	B[关闭]  
+Shift,Esc [Back]  	B[返回]  
+Enter,	A：
+ [Known info]  	[已知信息]  
+ [Mode]  	[模式]  
+p [Portrait]  	p[肖像]  
+0~9 [Shortcut]  	0~9[快捷键]  
+ [Help]  	[帮助]  
+- Norne's travel guide -	—诺伦的旅行指南—
+Up,Down [Scr 1 line]   Left,Right [Scr 1 page]   Hit other key to close	上下滚动，左右翻页，B关闭
+Hit any key to close	按任意键关闭
+Which scene do you want to replay?	想重看哪个场景？
+You can play the unlocked scenes.	可以重看已经解锁的场景。
+Scene No. 	场景编号：
+The scene has been played.	已播放该场景。
+Cost	消耗
+Stock	存量
+Lv/Chance	等级/成功率
+Effect	效果
+Power:	威力：
+Character Sheet	角色信息
+Skill Training	训练技能
+Skill Learning	学习技能
+Weapon Proficiency	武器熟练度
+Resistance	抗性
+Train which skill?	要训练哪项技能？
+You can spend {$1} bonus points.	可分配{$1}点技能点。
+Attributes(Org) - Potential	属性（原值）/潜力
+Combat Rolls	战斗能力
+Trace	个人经历
+Blessing and Hex	祝福与诅咒
+Extra Info	其他信息
+Prot	防御
+Evade	闪避
+Hit	命中
+Melee	近战
+Unarmed	徒手
+Dist	远程
+Level	等级
+EXP	经验
+Next Lv	下级所需
+God	信仰
+Guild	公会
+Aka	称号
+Sex	性别
+Age	年龄
+Height	身高
+Weight	重量
+Life	生命
+Mana	法力
+Sanity	理智
+Speed	速度
+Fame	名声
+Karma	善恶
+Shoot	射击
+Turns	回合
+Days	天数
+Kills	击杀
+Time	时间
+{$1} Turns	{$1}回合
+{$1} Days	{$1}天
+Cargo Wt	货物重量
+Cargo Lmt	货物上限
+Equip Wt	装备重量
+Deepest Lv	最深层数
+{$1} Level	第{$1}层
+This character isn't currently blessed or hexed.	当前没有祝福或诅咒。
+Hint	提示
+Lv	等级
+Potential	潜力
+Resist {$1}	{$1}抗性
+Cursor [Hint]  	方向键[提示]  
+Enter [Spend Bonus]  	A[分配技能点]  
+Enter Key [Reroll]  	A[重新随机]  
+Shift,Esc [Confirm]	B[确认]
+Enter [Train Skill]  	A[训练技能]  
+Enter [Learn Skill]  	A[学习技能]  
+Cursor [Blessing/Curse Info] 	方向键[祝福/诅咒详情] 
+Track Skill	追踪技能
+Equipment	装备
+Category	类别
+Equip weight	装备重量
+Hit Bonus	命中加成
+Damage Bonus	伤害加成
+Hand*	主手*
+{itemname($1)} can't be taken off.	无法卸下{itemname($1)}。
+You unequip {itemname($1)}.	你卸下了{itemname($1)}。
+Right,left [Change]  Shift,Esc [Close]	左右[调整]  B[完成]
+Appearance	外貌
+Done    	完成    
+Portrait	肖像
+Hair    	头发    
+Sub Hair	额发
+Hair CL 	发色 
+Body    	身体    
+Cloth   	上衣   
+Pants   	裤子   
+Set Detail	细节设置
+Custom  	自定义  
+Riding  	坐骑  
+Body CL 	肤色 
+Cloth CL	衣服颜色
+Pants CL	裤子颜色
+Etc1    	饰品一    
+Etc2    	饰品二    
+Etc3    	饰品三    
+Eyes    	眼睛    
+Set Basic	基本设置
+Parts to hide	隐藏装备部位
+Part	部位
+Chest   	胸甲   
+Leg     	腿甲     
+Belt    	腰带    
+Glove   	手套   
+Mantle  	披风  
+Examine what? 	查看哪件物品？
+Drop what? 	丢下哪件物品？
+Which item do you want to pick up? 	拾取哪件物品？
+Eat what? 	吃什么？
+Equip what?	装备哪件物品？
+Read what? 	阅读什么？
+Drink what? 	喝什么？
+Zap what? 	使用哪根魔杖？
+Which item do you want to give? 	交出哪件物品？
+What do you want to buy? 	购买什么？
+What do you want to sell? 	出售什么？
+Which item do you want to identify? 	鉴定哪件物品？
+Use what? 	使用什么？
+Open what? 	打开什么？
+Cook what? 	烹饪什么？
+Blend what? 	调合什么？
+Which item do you want to apply the effect of {$1}?	对哪件物品使用{$1}？
+What do you want to offer to your God? 	向神献上什么？
+Which item do you want to trade? 	交换哪件物品？
+What do you offer for {$1}?	用什么交换{$1}？
+Take what? 	拿取什么？
+Target what? 	选择哪个目标？
+Put what? 	放入什么？
+Which item do you want to take? 	取出哪件物品？
+Throw what? 	投掷什么？
+Steal what? 	偷窃什么？
+Trade what? 	交换什么？
+Which item do you want to reserve? 	订购哪件物品？
+Tag No-Drop	禁止丢弃
+Multi Drop	连续丢弃
+Weight {$1}/{$2}  Cargo {$3}	负重{$1}/{$2} 货物{$3}
+Ground	地面
+Main hand	主手
+It's set as no-drop. You can reset it from the <examine> menu.	这件物品已禁止丢弃，可在查看菜单中解除。
+The item doesn't exist.	物品不存在。
+Your inventory is full.	背包已满。
+Invalid Item ID found ({$1}). It has been removed from your inventory.	发现无效物品编号（{$1}），已从背包移除。
+You set {itemname($1)} as no-drop.	已将{itemname($1)}设为禁止丢弃。
+{itemname($1)} is no longer set as no-drop.	已解除{itemname($1)}的禁止丢弃标记。
+You can continuously drop items.	现在可以连续丢弃物品。
+You can't drop items any more.	这里不能再放物品了。
+How many? (1 to {$1})	数量是多少？（1至{$1}）
+Your are too full to eat.	你已经吃饱了。
+You are too bloated to eat any more.	你撑得吃不下了。
+Your stomach can't digest any more.	你的胃无法再消化食物。
+It's too heavy to equip.	太重了，无法装备。
+You equip {itemname($1)}.	你装备了{itemname($1)}。
+You are now one step closer to doom.	你又向厄运靠近了一步。
+You suddenly feel a chill and shudder.	你突然感到一阵寒意，不禁打了个冷战。
+You feel as someone is watching you intently.	你感到有谁正在默默守护你。
+You need higher identification to gain new knowledge.	需要更高的鉴定能力才能了解更多。
+The item is half-identified as {itemname($1)}.	部分鉴定成功：{itemname($1)}。
+The item is fully identified as {itemname($1)}.	完全鉴定成功：{itemname($1)}。
+{name($1)} {is($1)} sleeping.	{name($1)}正在睡觉。
+{his($1)} inventory is full.	对方的背包已满。
+You give {name($1)} {itemname($2, 1)}.	你把{itemname($2, 1)}交给了{name($1)}。
+You hand {itemname($1, 1)} to {name($2)}.	你把{itemname($1, 1)}递给了{name($2)}。
+{name($1)} blushes.	{name($1)}脸红了。
+{name($1)} refuses{s($1)} to take {itemname($2, 1)}.	{name($1)}拒绝接受{itemname($2, 1)}。
+Do you really want to buy {$1} for {$2} gold pieces?	花{$2}金币购买{$1}吗？
+You check your wallet and shake your head.	你看看钱包，摇了摇头。
+You need to earn more money!	你需要赚更多钱！
+Price	价格
+Do you really want to sell {$1} for {$2} gold pieces?	以{$2}金币出售{$1}吗？
+{name($1)} checks {his($1)} wallet and shake {his($1)} head.	{name($1)}看看钱包，摇了摇头。
+There's no altar here.	这里没有祭坛。
+You don't have stuff that match {itemname($1)}.	你没有足以交换{itemname($1)}的物品。
+You receive {itemname($2)} in exchange for {itemname($1)}.	你用{itemname($1)}换到了{itemname($2)}。
+You don't have a claim.	你没有继承权凭证。
+You can claim {$1} more heirloom{s($1)}.	你还可以领取{$1}件遗产。
+Really leave these items?	确定留下这些物品吗？
+The container is full.	容器已满。
+The container can only hold items weight less than {$1}.	容器只能装入重量低于{$1}的物品。
+The container cannot hold cargos	容器不能装入货物。
+You have no quota for Mages Guild.	你没有魔法师公会的缴纳任务。
+You deliver {itemname($1)}. 	你交付了{itemname($1)}。
+{$1}guild points are needed to gain a rank.	晋升还需要{$1}公会点数。
+You fulfill the quota!	你完成了缴纳任务！
+You don't have enough money.	你的钱不够。
+You don't have to pay your tax yet.	现在还不需要缴税。
+You pay {itemname($1)}.	你缴纳了{itemname($1)}。
+You deliver {itemname($1)}. +{$2} Delivered({$3}) Quota ({$4})	交付{itemname($1)}，增加{$2}。已交{$3}，目标{$4}。
+{itemname($1)} is cursed and can't be taken off.	{itemname($1)}被诅咒了，无法卸下。
+{name($1)} swallows {itemname($2, 1)} angrily.	{name($1)}愤怒地吞下了{itemname($2, 1)}。
+You take {$1}.	你拿走了{$1}。
+EquipWt	装备重量
+Equip	装备
+You can't see the location.	你看不到那里。
+The location is blocked.	那里被挡住了。
+{name($1)} has nothing to steal.	{name($1)}没有可偷的东西。
+There's nothing to steal.	没有可偷的东西。
+You don't want to rob your ally.	你不想抢劫同伴。
+(Coins: {$1})	（徽章：{$1}）
+{$1} Coins	{$1}枚徽章
+You don't have enough coins.	你的徽章不够。
+You receive {itemname($1, 1)}!	你得到了{itemname($1, 1)}！
+Medal	徽章
+You can only use cargo items on the surface.	货物只能在大地图上使用。
+Feats and Traits	天赋与特性
+Enter [Gain Feat]	A[获取天赋]
+Ally	同伴
+[Available feats]	[可选天赋]
+[Feats and traits]	[已有天赋与特性]
+requirement	需求
+You can acquire {$1} feats	还可选择{$1}项天赋
+You already have maxed out the feat.	这项天赋已达到最高等级。
+{$1}'s Trait	{$1}的特性
+Mutation	变异
+Disease	以太病
+ETC	其他
+{$1} equipment {$2}	{$1}的装备 {$2}
+unemployed	无业
+Warrior	战士
+Thief	盗贼
+Wizard	魔法师
+Farmer	农民
+Predator	掠食者
+Archer	猎人
+Warmage	魔法战士
+Tourist	观光客
+Pianist	钢琴家
+Gunner	枪手
+Priest	神官
+Claymore	大剑使
+Debugger	调试者
+For debug	供调试使用
+Strength	力量
+Constitution	体质
+Dexterity	灵巧
+Perception	感知
+Learning	学习
+Will	意志
+Magic	魔力
+Charisma	魅力
+Luck	幸运
+Long Sword	长剑
+Short Sword	短剑
+Axe	斧
+Blunt	钝器
+Polearm	长柄武器
+Stave	杖
+Scythe	镰刀
+Bow	弓
+Crossbow	弩
+Firearm	枪械
+Throwing	投掷
+Martial Arts	格斗
+Shield	盾牌
+Evasion	闪避
+Dual Wield	双刀流
+Two Hand	双手武器
+Weight Lifting	举重
+Tactics	战术
+Marksman	射术
+Healing	治愈
+Mining	挖掘
+Carpentry	木工
+Heavy Armor	重装甲
+Medium Armor	中装甲
+Light Armor	轻装甲
+Lock Picking	开锁
+Disarm Trap	解除陷阱
+Tailoring	裁缝
+Jeweler	宝石加工
+Pickpocket	偷窃
+Stealth	潜行
+Detection	探知
+Sense Quality	感知品质
+Eye of Mind	心眼
+Fishing	钓鱼
+Greater Evasion	见切
+Anatomy	解剖学
+Literacy	读书
+Memorization	记忆
+Casting	魔法修行
+Control Magic	魔力控制
+Mana Capacity	魔力极限
+Alchemy	炼金术
+Faith	信仰
+Traveling	旅行
+Riding	骑乘
+Negotiation	交涉
+Investing	投资
+Performer	演奏
+Cooking	烹饪
+Gardening	栽培
+Gene Engineer	基因合成
+fire	火焰
+cold	冰冷
+lightning	雷电
+darkness	黑暗
+mind	精神
+nether	地狱
+poison	毒
+sound	音波
+chaos	混沌
+nerve	神经
+magic	魔法
+cut	切割
+Male	男性
+Female	女性
+male	男性
+female	女性
+Years of training strengthens your stamina.	长期锻炼能增强你的耐力。
+Short Distance Runner	短跑选手
+Middle Distance Runner	中跑选手
+Long Distance Runner	长跑选手
+You have good stamina. [Stamina+]	耐力提高。[耐力+]
+You have very good stamina. [Stamina++]	耐力大幅提高。[耐力++]
+You have outstanding stamina. [Stamina+++]	耐力极大提高。[耐力+++]
+Your vampire friend teaches you how to suck blood.	吸血鬼朋友教会了你吸血。
+Vampiric Ability	吸血能力
+You can suck blood now.	你可以吸取鲜血。
+You find how to strengthen your allies for a short time.	你学会了暂时强化同伴。
+Natural Leader	天生领袖
+You can temporally strengthen your allies.	可以暂时强化同伴。
+You hit upon an idea of insta-teleport from a dream.	你在梦中领悟了瞬间移动。
+Dimensional Move	空间移动
+You can insta-teleport to nearby tiles.	可以瞬移到附近的位置。
+Too much drinking makes you want to breath fire.	大量饮酒让你学会了喷火。
+Fire Breath	火焰吐息
+You can breath fire.	你可以喷吐火焰。
+Suddenly, you know how to make everyone sleep.	你突然领悟了催眠的方法。
+Hypnotism	催眠术
+You can hypnotize single target.	可以催眠一个目标。
+Researching poisons leads you to a method to poison others.	研究毒药使你学会了施毒。
+Poison Nail	毒爪
+You can poison a creature.	可以使一个生物中毒。
+You learn sexy poses.	你学会了魅惑的姿态。
+Sexy	性感
+Lady Killer	万人迷
+You are sexy. [CHR+4]	你富有魅力。[魅力+4]
+You are a lady killer. [CHR+8]	你魅力四射。[魅力+8]
+Training arm wrestling increases your strength.	掰手腕的训练增强了力量。
+Arm Wrestler	掰手腕选手
+Adept Arm Wrestler	掰手腕高手
+Master Arm Wrestler	掰手腕大师
+You are an arm wrestler. [STR+3]	你的力量增强了。[力量+3]
+You are a good arm wrestler. [STR+6]	你的力量大幅增强。[力量+6]
+You are a master of arm wrestling. [STR+9]	你的力量极大增强。[力量+9]
+Working as an accountant reduces your tax payment.	会计经验能减少应缴税款。
+Apprentice Accountant	见习会计
+Expert Accountant	资深会计
+You can set expenses off against tax. [TAX-7%]	你能用开支抵扣税款。[税款-7%]
+You are good at setting expenses off against tax. [TAX-15%]	你善于用开支抵扣税款。[税款-15%]
+Working as a quartermaster gives you better payoff.	军需官经验让你获得更好的补给。
+Apprentice Quartermaster	见习军需官
+Expert Quartermaster	资深军需官
+You sometimes receive quality supplies.	有时能收到优质补给。
+You frequently receive quality supplies.	经常能收到优质补给。
+Your prayer weakens the power of cursed whisperings.	祈祷能削弱诅咒低语。
+Exorcist	驱魔者
+Your prayer nullifies cursed whisperings.	祈祷可以消除诅咒低语。
+Pushing your head against a wall makes you tougher.	撞墙的锻炼让身体更结实。
+Tough	强健
+Pretty Tough	十分强健
+Awfully Tough	极其强健
+You are tough. [CON+3]	你的体质增强了。[体质+3]
+You are pretty tough. [CON+6]	你的体质大幅增强。[体质+6]
+You are awfully tough. [CON+9]	你的体质极大增强。[体质+9]
+You learn tricks of martial arts from fighting in streets.	街头斗殴使你学会了格斗技巧。
+Martial Artist	格斗家
+Ken-Sei	拳圣
+You know martial arts. [Martial Arts+3]	你掌握了格斗技巧。[格斗+3]
+You mastered martial arts. [Martial Arts+6]	你精通格斗技巧。[格斗+6]
+Daily meditation increases your casting skill.	每日冥想能提升施法能力。
+Concentration	专注
+More Concentration	高度专注
+You concentrate while casting. [Casting+4]	施法时更加专注。[魔法修行+4]
+You concentrate more while casting. [Casting+8]	施法时高度专注。[魔法修行+8]
+Mastering shield increases your chance of shield bash.	熟练运用盾牌能提高盾击几率。
+Shield Bash	盾击
+You can bash with your shield more frequently.	你能更频繁地发动盾击。
+Your gentle face prevents your enemies from escaping.	和善的面孔使敌人不再逃跑。
+Gentle Face	和善面孔
+Your attacks don't cause enemies to run.	你的攻击不会使敌人逃跑。
+Years of training increases your two weapon fighting skill.	长期训练提升了双刀流技巧。
+Ambidextrous	双手灵巧
+Improved Ambidextrous	精通双刀流
+You can handle multiple weapons. [Dual Wield+4]	你善于同时使用两件武器。[双刀流+4]
+You mastered multiple weapon style. [Two Wield+8]	你精通双武器战斗。[双刀流+8]
+Living in darkness makes you resistant to darkness.	黑暗中的生活增强了黑暗抗性。
+Conquer Darkness	克服黑暗
+Conquer Deep Darkness	征服黑暗
+You don't fear darkness. [RES Darkness+]	你不再畏惧黑暗。[黑暗抗性+]
+You can dance in darkness. [RES Darkness++]	你能在黑暗中起舞。[黑暗抗性++]
+Being a taster for a noble grants you resistance to poison.	为贵族试毒增强了你的毒抗性。
+Poison Tolerance	毒耐性
+More Poison Tolerance	强效毒耐性
+You have a tolerance to poison. [RES Poison+]	你能够抵御毒素。[毒抗性+]
+You have a strong tolerance to poison. [RES Poison++]	你能抵御剧毒。[毒抗性++]
+Working under a trader improves your negotiation skill.	商人的工作经验提升了交涉能力。
+Negotiator	谈判者
+Great Negotiator	交涉专家
+You are a negotiator. [Negotiation+4]	你善于谈判。[交涉+4]
+You are a great negotiator. [Negotiation+8]	你精通谈判。[交涉+8]
+Training under a priest deepens your faith.	神官的教导加深了你的信仰。
+Believer	信徒
+Zealot	虔诚信徒
+You really believe in god. [Faith+4]	你虔诚地信仰神明。[信仰+4]
+You are a zealot. [Faith+8]	你的信仰十分坚定。[信仰+8]
+Sighting a falling star brings you luck.	目睹流星给你带来了好运。
+Lucky	幸运儿
+Incredibly Lucky	鸿运当头
+Goddess of Luck	幸运女神
+You are lucky	你的运气很好。
+You can rely on a good dose of luck.	好运时常眷顾你。
+The goddess of luck smiles on you.	幸运女神向你微笑。
+Being an ascetic increases your HP.	苦修能提升生命上限。
+Apprentice Ascetic	见习苦行者
+Journeyman Ascetic	熟练苦行者
+Expert Ascetic	资深苦行者
+Master Ascetic	苦行大师
+Legendary Ascetic	传奇苦行者
+You are an apprentice of an ascetic. [HP+5%]	你开始了苦修。[生命+5%]
+You are a journeyman of an ascetic. [HP+10%]	你坚持不懈地苦修。[生命+10%]
+You are an expert of an ascetic. [HP+15%]	你精通苦修之道。[生命+15%]
+You are a master of an ascetic. [HP+20%]	你是苦修的大师。[生命+20%]
+You are an legendary ascetic. [HP+25%]	你的苦修事迹成为传奇。[生命+25%]
+You gain MP by using gene manipulation.	基因调整增强了你的法力。
+Magical Gene	魔法基因
+Magical Cell	魔法细胞
+Magical Blood	魔法血液
+Magic Body	魔法之躯
+Magic Being	魔法生命
+Your genes contain magic. [MP+5%]	你的基因蕴藏魔力。[法力+5%]
+Your cells contain magica [MP+10%]	你的细胞蕴藏魔力。[法力+10%]
+Your blood contain magic [MP+15%]	你的血液蕴藏魔力。[法力+15%]
+Your body is made of magic. [MP+20%]	你的身体充满魔力。[法力+20%]
+Magic dominats your entire body. [MP+25%	魔力支配着你的全身。[法力+25%]
+You search around carefully to spot traps.	仔细搜索能帮助你发现陷阱。
+Careful	谨慎
+Very Careful	十分谨慎
+You are cautious about traps. [Detection+3]	你会留意附近的陷阱。[探知+3]
+You are very cautious about traps. [Detection+6]	你善于察觉陷阱。[探知+6]
+Chasing cats increases your speed.	追逐猫咪让你跑得更快。
+Agile	敏捷
+Very Agile	十分敏捷
+You can run fast. [SPD+5]	你跑得很快。[速度+5]
+You can run faster than a cat. [SPD+10]	你跑得比猫还快。[速度+10]
+You establish your own defensive style.	你建立了自己的防御技巧。
+Stone Defense	岩石防御
+Iron Defense	钢铁防御
+Steel Defense	精钢防御
+Your defense is as hard as stone. [PV+5]	你的防御坚如磐石。[防御+5]
+Your defense is as hard as iron. [PV+10]	你的防御如钢铁般牢固。[防御+10]
+Your defense is as hard as steel. [PV+15]	你的防御如精钢般坚固。[防御+15]
+You learn how to dodge attacks.	你学会了躲避攻击。
+Dodge	回避
+Improved Dodge	强化回避
+Greater Dodge	高阶回避
+You can somewhat dodge enemy attacks. [DV+4]	你能够躲避一些攻击。[闪避值+4]
+You can dodge enemy attacks. [DV+8]	你善于躲避攻击。[闪避值+8]
+You can really dodge enemy attacks. [DV+12]	你能灵活躲避攻击。[闪避值+12]
+You improve your evasion skill.	你提升了闪避技巧。
+Improved Evade	强化闪避
+Greater Evade	高阶闪避
+You can somewhat evade enemy attacks. [Evasion+2]	你的闪避能力有所提高。[闪避+2]
+You can evade enemy attacks. [Evasion+4]	你的闪避能力得到提升。[闪避+4]
+You can really evade enemy attacks. [Evasion+6]	你的闪避能力大幅提升。[闪避+6]
+you	你
+something	某个东西
+Unknown	未知
+Yes.	是。
+No.	否。
+Okay.	好的。
+Alright.	明白了。
+Thanks!	谢谢！
+Let's Talk.	聊一聊。
+Are you interested in trade?	要交换物品吗？
+{name($1)} won't listen.	{name($1)}不肯听你说话。
+{name($1)} is sleeping.	{name($1)}正在睡觉。
+{name($1)} is in the middle of something.	{name($1)}正在忙。
+({he($1)} ignores you...)	（对方无视了你……）
+Impress	好感
+Attract	吸引
+Fame: {$1}	名声：{$1}
+Shop Rank:{$1}	商店等级：{$1}
+Starving!	濒临饿死！
+Starving	饥饿难耐
+Hungry!	非常饥饿！
+Hungry	饥饿
+Satisfied	饱腹
+Satisfied!	很饱！
+Bloated	吃撑了
+Burden	负重
+Burden!	负重！
+Overweight	超重
+Overweight!	严重超重！
+Sleepy	困倦
+Need Sleep	需要睡眠
+Need Sleep!	急需睡眠！
+Sick	生病
+Very Sick	重病
+Poisoned	中毒
+Poisoned Bad!	剧毒！
+Dim	眩晕
+Muddled	意识模糊
+Unconscious	昏迷
+Fury	愤怒
+Berserk	狂暴
+Bleeding	流血
+Bleeding!	严重流血！
+Hemorrhage	大出血
+Unsteady	精神不稳
+Insane	疯狂
+Paranoia	妄想
+Drunk	醉酒
+Wet	湿透
+Gravity	重力
+Sleep	睡眠
+Deep Sleep	熟睡
+Blinded	失明
+Paralyzed	麻痹
+Choked	窒息
+Confused	混乱
+Fear	恐惧
+Tired	疲劳
+Very tired	非常疲劳
+VERY tired	精疲力尽
+{name($1)} {is($1)} blinded.	{name($1)}失明了。
+{name($1)} can see again.	{name($1)}恢复了视力。
+{name($1)} {is($1)} confused.	{name($1)}陷入了混乱。
+{name($1)} recover{s($1)} from confusion.	{name($1)}从混乱中恢复了。
+{name($1)} {is($1)} paralyzed.	{name($1)}麻痹了。
+{name($1)} recover{s($1)} from paralysis.	{name($1)}从麻痹中恢复了。
+{name($1)} {is($1)} poisoned.	{name($1)}中毒了。
+{name($1)} recover{s($1)} from poison.	{name($1)}体内的毒素消退了。
+{name($1)} fall{s($1)} asleep.	{name($1)}睡着了。
+{name($1)} awake{s($1)} from {his($1)} sleep.	{name($1)}醒来了。
+{name($1)} {is($1)} frightened.	{name($1)}感到恐惧。
+{name($1)} shake{s($1)} off {his($1)} fear.	{name($1)}摆脱了恐惧。
+{name($1)} {is($1)} dimmed.	{name($1)}头晕目眩。
+{name($1)} regain{s($1)} {his($1)} senses.	{name($1)}恢复了意识。
+{name($1)} begin{s($1)} to bleed.	{name($1)}开始流血。
+{name($1)}{his_owned($1)} bleeding stops.	{name($1)}止住了流血。
+{name($1)} get{s($1)} drunk.	{name($1)}喝醉了。
+{name($1)} get{s($1)} sober.	{name($1)}酒醒了。
+{name($1)} become{s($1)} insane.	{name($1)}陷入疯狂。
+{name($1)} come{s($1)} to {himself($1)} again.	{name($1)}恢复了理智。
+{name($1)} get{s($1)} sick.	{name($1)}生病了。
+{name($1)} recover{s($1)} from {his($1)} illness.	{name($1)}痊愈了。
+Gene engineer	基因合成
+Meditation	冥想
+Magic Device	魔道具
+Indicates your skill with long swords.	使用长剑的熟练程度。
+Indicates your skill with short swords.	使用短剑的熟练程度。
+Indicates your skill with axes.	使用斧的熟练程度。
+Indicates your skill with blunt weapons.	使用钝器的熟练程度。
+Indicates your skill with polearms.	使用长柄武器的熟练程度。
+Indicates your skill with staves.	使用杖的熟练程度。
+Indicates your skill with scythes.	使用镰刀的熟练程度。
+Indicates your skill with bows.	使用弓的熟练程度。
+Indicates your skill with cross bows	使用弩的熟练程度。
+Indicates your skill with firearms.	使用枪械的熟练程度。
+Indicates your skill with throwing objects.	投掷物品的熟练程度。
+Indicates your skill fighting unarmed.	徒手格斗的熟练程度。
+Increases the effectivness of using shields.	提高使用盾牌的效果。
+Increases your chance of evading enemy attacks.	提高躲避敌人攻击的几率。
+Used when wielding two weapoms at the same time.	同时使用两件武器的技巧。
+Used when wielding a weapon with both hands.	双手使用一件武器的技巧。
+Resistance to fire.	抵抗火焰的能力。
+Resistance to cold.	抵抗冰冷的能力。
+Resistance to lightning.	抵抗雷电的能力。
+Resistance to darkness.	抵抗黑暗的能力。
+Resistance to mind.	抵抗精神攻击的能力。
+Resistance to nether.	抵抗地狱攻击的能力。
+Resistance to poison.	抵抗毒素的能力。
+Resistance to sound.	抵抗音波的能力。
+Resistance to chaos.	抵抗混沌的能力。
+Resistance to nerve.	抵抗神经攻击的能力。
+Resistance to magic.	抵抗魔法的能力。
+Resistance to cut.	抵抗切割的能力。
+Allows you to carry more stuff.	提高可携带物品的重量上限。
+Increases melee damage.	提高近战伤害。
+Increases shooting damage.	提高射击伤害。
+Gradually heals your wounds.	逐渐恢复生命。
+Shows how good of a miner you are.	提高挖掘能力。
+Skill to cut trees and manufcture products.	伐木与制造木制品的技巧。
+Skill to effectively act while wearing heavy armor.	穿戴重甲时有效行动的技巧。
+Skill to effectively act while wearing medium armor.	穿戴中甲时有效行动的技巧。
+Skill to effectively act while wearing light armor.	穿戴轻甲时有效行动的技巧。
+Allows you to pick more difficult locks.	使你能打开更复杂的锁。
+Allows you to disarm harder traps.	使你能解除更复杂的陷阱。
+Skill to sew materials and manufucture products.	缝制材料与制作衣物的技巧。
+makes you a better tailor.	提高裁缝能力。
+Skill to process jewels and manufucture products.	加工宝石与制作首饰的技巧。
+Shows how good of a thief you are.	提高偷窃能力。
+Allows you to move quietly.	使你能安静地移动。
+It is used to search hidden locations and traps.	用于发现隐藏的地点与陷阱。
+Allows you to sense the quality of stuff.	使你能感知物品的品质。
+Increases your chance to deliver critical hits.	提高暴击几率。
+Enables you to perform alchemy.	使你能进行炼金制作。
+Skill to plant seeds and gather harvests.	种植种子与收获作物的技巧。
+Allows you to control genes.	使你能进行基因合成。
+Improves your cooking skill.	提高烹饪能力。
+Gradually restores your magic points.	逐渐恢复法力。
+enhances your meditation.	增强冥想能力。
+Improves effectiveness of magic devices.	提高魔法装置的使用效果。
+Reduces the chance of casting failure.	降低施法失败的几率。
+Prevents your allies to get hit by your spells.	减少魔法误伤同伴的风险。
+Reduces kickback damage from over casting.	减少法力透支造成的反噬伤害。
+Gets you closer to god.	加深你与神明的联系。
+makes you pious.	使你更加虔诚。
+Allows you to receive more EXP from traveling.	提高旅行获得的经验。
+Allows you to ride creatures.	使你能骑乘生物。
+Convinces someone to give you better deals.	使交易价格更加有利。
+Lowers the money needed to invest in shops.	降低投资商店所需的金钱。
+Shows how good of a performer you are.	提高演奏能力。
+gold bar	金条
+long sword	长剑
+dagger	匕首
+hand axe	手斧
+club	棍棒
+magic hat	魔法帽
+fairy hat	妖精帽
+breastplate	胸甲
+robe	长袍
+decorated gloves	装饰手套
+thick gauntlets	厚手甲
+heavy boots	重靴
+composite boots	复合靴
+decorative ring	装饰戒指
+identify	鉴定
+oracle	神谕
+teleportation	传送
+incognito	隐身
+uncurse	解咒
+book	书
+bugged book	损坏的书
+dirty water	脏水
+clear liquid	透明液体
+blindness	失明
+confusion	混乱
+paralysis	麻痹
+sleeping drug	安眠药
+crim ale	克里姆麦酒
+ice bolt	冰冻射线
+fire bolt	火焰射线
+lightning bolt	雷电射线
+earth crystal	大地结晶
+mana crystal	魔力结晶
+sun crystal	太阳结晶
+rubynus	红宝石原石
+mica	云母
+emerald	绿宝石
+diamond	钻石
+wood piece	木片
+junk stone	废石
+garbage	垃圾
+broken vase	破花瓶
+washing	待洗衣物
+bonfire	篝火
+flag	旗帜
+broken sword	断剑
+bone fragment	骨片
+skeleton	骷髅
+tombstone	墓碑
+gold piece	金币
+platinum coin	白金币
+pure black sword	漆黑之剑
+shining silver katana	闪耀的银色太刀
+long bow	长弓
+knight shield	骑士盾
+pistol	手枪
+arrow	箭
+bullet	子弹
+scythe that sings death	咏唱死亡的镰刀
+chaotic sword	混沌之剑
+light cloak	轻披风
+girdle	腰带
+decorative amulet	装饰护符
+cure minor wound	轻伤治疗
+cure major wound	重伤治疗
+cure critical wound	致命伤治疗
+healing	治愈
+healer	治疗
+sword that ends all	终结一切的剑
+round chair	圆椅
+bookshelf	书架
+luxury drawer	豪华抽屉
+boring bed	简陋的床
+rag doll	布偶
+toy	玩具
+modern table	现代桌
+dining table	餐桌
+armor	盔甲
+goods	杂货
+accessories	饰品
+grand piano	三角钢琴
+bar table alpha	吧台甲
+bar table beta	吧台乙
+barrel	木桶
+modern chair	现代椅
+pick	镐
+lantern	提灯
+decorative armor	装饰盔甲
+anvil	铁砧
+closed pot	带盖陶罐
+open pot	敞口陶罐
+academic table	书桌
+potions	药水
+square chair	方椅
+cheap chair	廉价椅
+cupboard	橱柜
+barn	谷仓
+neat shelf	整齐的架子
+closet	衣柜
+tools	工具
+well	水井
+clothes	衣物
+furnace	熔炉
+oven	烤炉
+sign	告示牌
+crossroad sign	路标
+board	布告板
+minor teleportation	短距离传送
+empty basket	空篮子
+summon monsters	召唤怪物
+magic missile	魔法箭
+breads	面包
+heal	治疗
+beaker	烧杯
+alchemy kit	炼金工具
+pentagram	五芒星
+small foliage plant	小盆栽
+rose	玫瑰
+large foliage plant	大盆栽
+sage	鼠尾草
+canvas	画布
+map	地图
+food maker	食品机
+bows	弓
+weapons	武器
+decorated cloth	装饰衣服
+decorated armor	装饰铠甲
+disorderly book	凌乱的书
+books	书籍
+craft rack	工艺架
+craft book shelf	工艺书架
+alcohols	酒类
+kitchen	厨房
+sink	水槽
+kitchen oven	厨房炉灶
+narrow dining table	窄餐桌
+elegant table	优雅的桌子
+gorgeous candlestick	华丽烛台
+simple shelf	简易架子
+vegetable	蔬菜
+fruit	水果
+herb	药草
+unknown plant	未知植物
+artifact	奇迹
+magical plant	魔法植物
+gem	宝石
+sand	沙
+raw	生的
+wood	木
+iron	铁
+bronze	青铜
+coral	珊瑚
+metal	金属
+silver	银
+glass	玻璃
+obsidian	黑曜石
+steel	钢
+platinum	白金
+pearl	珍珠
+mithril	秘银
+chrome	铬
+crystal	水晶
+adamantium	精金
+titanium	钛
+ether	以太
+cloth	布
+silk	丝绸
+paper	纸
+bone	骨
+leather	皮革
+scale	鳞
+chain	锁链
+Kobold	狗头人
+Orc	兽人
+Troll	巨魔
+Lizardman	蜥蜴人
+Minotaur	牛头人
+Norland	诺兰德人
+Asura	阿修罗
+Slime	史莱姆
+Wolf	狼
+Zombie	僵尸
+Rabbit	兔
+Sheep	羊
+Frog	青蛙
+Centipede	蜈蚣
+Mandrake	曼德拉草
+Beetle	甲虫
+Mushroom	蘑菇
+Bat	蝙蝠
+Ent	树精
+Hound	猎犬
+Ghost	幽灵
+Spirit	精灵
+Eye	眼魔
+Wyvern	双足飞龙
+Wasp	黄蜂
+Giant	巨人
+Imp	小恶魔
+Hand	手
+Snake	蛇
+Drake	幼龙
+Bear	熊
+Armor	铠甲
+Medusa	美杜莎
+Cupid	丘比特
+Phantom	幻影
+Harpy	鹰身女妖
+Dragon	龙
+Rock	岩石
+Crab	螃蟹
+Skeleton	骷髅
+Piece	棋子
+Cat	猫
+Dog	狗
+Roran	罗兰
+Rat	老鼠
+Shell	贝壳
+Catgod	猫神
+Machinegod	机械神
+Undeadgod	不死神
+Machine	机械
+Wisp	鬼火
+Chicken	鸡
+Stalker	潜伏者
+Catsister	猫妹
+Yeek	伊克
+Yith	伊斯
+Servant	仆人
+Horse	马
+Quickling	快可灵
+Metal	金属
+Bike	自行车
+Slug	蛞蝓
+ STR	力量
+ CON	体质
+ DEX	灵巧
+ PER	感知
+ LER	学习
+ WIL	意志
+ MAG	魔力
+ CHR	魅力
+Superb	极高
+Bad	较差
+Hopeless	极低
+Critically Weak	极度脆弱
+Weak	脆弱
+No Resist	无抗性
+Strong	强
+Eyth of Infidel	无信仰
+(Light)	（轻甲）
+(Medium)	（中甲）
+(Heavy)	（重甲）
+<Larnneire> the listener of wind	倾听风声的《拉娜莱》
+<Lomias> the messenger from Vindale	森林使者《罗米阿斯》
+Get out of my house!	离开我的家！
+putit	普奇
+red putit	红色普奇
+food	食物
+rods	魔杖
+scrolls	卷轴
+junks	杂物
+ores	矿石
+furniture	家具
+ammos	弹药
+(Charges: {$1})	（剩余{$1}次）
+(Scary)	（不祥）
+(Dreadful)	（可怕）
+Examine	查看
+Drop	丢弃
+Pick Up	拾取
+Eat	进食
+Read	阅读
+Drink	饮用
+Zap	使用魔杖
+Give	交给
+Buy	购买
+Sell	出售
+Identify	鉴定
+Use	使用
+Open	打开
+Cook	烹饪
+Mix	调合
+Mix Target	调合目标
+Offer	献祭
+Trade	交换
+Present	赠送
+Take	取出
+Target	目标
+Put	放入
+Throw	投掷
+Reserve	预订
+Your Home	你的家
+You search the surroundings carefully.	你仔细地搜索四周。
+Etherwind	以太风
+Snow	雪
+Rain	雨
+Hard rain	暴雨
+Midnight	午夜
+Dawn	黎明
+Morning	早晨
+Noon	正午
+Dusk	黄昏
+Night	夜晚
+hammer	锤
+helm	头盔
+small shield	小盾
+stone	石子
+ration	口粮
+traveler's food	旅行者食粮
+You have to identify the item to gain knowledge.	鉴定后才能了解这件物品。
+There is no information about this object.	没有这件物品的信息。
+It is made of {$1}.	它由{$1}制成。
+It speeds up the ether disease while equipping.	装备时会加速以太病的发展。
+It can be wielded as a weapon.	它可以用作武器。
+ Pierce 	穿透
+It is a light weapon.	它是轻型武器。
+It is a heavy weapon.	它是重型武器。
+It modifies hit bonus by {$1} and damage bonus by {$2}.	命中修正{$1}，伤害修正{$2}。
+It modifies DV by {$1} and PV by {$2}.	闪避修正{$1}，防御修正{$2}。
+Collected cards	收集的卡片
+It is acidproof.	它能够防酸。
+It is fireproof.	它能够防火。
+It is precious.	它是贵重物品。
+It is blessed by Ehekatl.	它受到艾赫卡托尔的祝福。
+It is a stolen item.	它是赃物。
+It is alive.	它是活的。
+It can be only used in a show room.	只能在展示房间使用。
+It is a hand-made item.	它是手工制作的。
+The enemy dies.	敌人会死去。
+Known Information	已知信息
+Head	头部
+Neck	颈部
+Back	背部
+Body	身体
+Ring	戒指
+Arm	手臂
+Waist	腰部
+Leg	腿部
+Foot	脚部
+Do you want to save the game and exit?	要保存游戏并退出吗？
+Cancel	取消
+Game Setting	游戏设置
+Your game has been saved successfully.	游戏已成功保存。
+You close your eyes and peacefully fade away. (Hit any key to exit)	你闭上双眼，安然休息。（按任意键退出）
+
+# rg34xx12: equipment, enchantments, settings, quests and activities
+Do you want to cancel {$1}? 	要取消{$1}吗？
+{name($1)} stop{s($1)} {$2}.	{name($1)}停止了{$2}。
+{name($1)} cancel{s($1)} {his($1)} action.	{name($1)}取消了行动。
+{name($1)} start{s($1)} to eat {itemname($2, 1)}.	{name($1)}开始吃{itemname($2, 1)}。
+{name($1)} start{s($1)} to eat {itemname($2, 1)} in secret.	{name($1)}开始偷偷吃{itemname($2, 1)}。
+\"Let's eatammoth.\"	「我开动啦。」
+{name($1)} {have($1)} finished eating {itemname($2, 1)}.	{name($1)}吃完了{itemname($2, 1)}。
+{name($1)} start{s($1)} to play {itemname($2)}.	{name($1)}开始演奏{itemname($2)}。
+*Tiki*	*叮咚*
+*Dan*	*当*
+*Lala*	*啦啦*
+*Cha*	*嚓*
+{name($1)} get{s($1)} angry.	{name($1)}生气了。
+{name($1)} clap{s($1)}.	{name($1)}鼓起掌来。
+{name($1)} listen{s($1)} to {name($2)}{his_owned($2)} music joyfully.	{name($1)}愉快地听着{name($2)}的演奏。
+\"Bravo!\"	「好极了！」
+\"Nice song.\"	「真好听。」
+\"Scut!\"	「滚开！」
+{name($1)} {is($1)} excited!	{name($1)}兴奋不已！
+\"Boring.\"	「真无聊。」
+\"I've heard this before.\"	「这首我听过了。」
+\"This song again?\"	「怎么又是这首？」
+\"Boo boo!\"	「嘘！嘘！」
+\"Shut it!\"	「闭嘴！」
+\"What are you doing!\"	「你在干什么！」
+\"You can't play shit.\"	「弹得什么玩意儿。」
+{name($1)} throw{s($1)} a rock.	{name($1)}扔出了一块石头。
+It is a waste of time.	简直浪费时间。
+Almost everyone ignores you.	几乎没人理会你。
+You need to practice lot more.	你还需要多加练习。
+You finish your performance.	你的演奏结束了。
+Not good.	不太理想。
+People seem to like your performance.	大家似乎喜欢你的演奏。
+Your performance is successful.	演出成功了。
+Wonderful!	精彩！
+Great performance. Everyone cheers you.	精彩的演出！大家为你欢呼。
+A Legendary stage!	传奇般的演出！
+The audience gives {name($1)} total of {$2} gold pieces.	观众总共给了{name($1)}{$2}枚金币。
+{name($1)} begin{s($1)} to take {his($1)} clothes off.	{name($1)}开始脱衣服。
+\"I-I don't really know that {$1}. Please spare my life!\"	「我、我真的不认识{$1}。饶了我吧！」
+\"Yes!\"	「好！」
+\"Ohhh\"	「噢噢！」
+*gasp*	*惊叹*
+*rumble*	*轰隆*
+\"come on!\"	「来吧！」
+You are awesome!	你太厉害了！
+Oh my god....	天哪……
+Okay, okay, you win!	好吧，好吧，你赢了！
+Holy...!	我的天……！
+Here, take this.	来，拿着。
+Take this money, it's all I have!	钱都给你，我就这么多了！
+{name($1)} gets furious, \"And you think you can just run away?\"	{name($1)}怒吼：「你以为这样就能跑掉吗？」
+You target {itemname($1, 1)}.	你盯上了{itemname($1, 1)}。
+{name($1)} notice{s($1)} you,	{name($1)}注意到了你，
+{name($1)} hear{s($1)} loud noise,	{name($1)}听到巨响，
+\"You there, stop!\"	「那边的，站住！」
+\"Guards! Guards!\"	「卫兵！卫兵！」
+You are found stealing.	你的偷窃被发现了。
+The target is dead.	目标已经死亡。
+It can't be stolen.	这件物品无法偷取。
+You lose the target.	你失去了目标。
+It's too heavy.	太重了。
+You abort stealing.	你停止了偷窃。
+You successfully steal {itemname($1)}.	你成功偷到了{itemname($1)}。
+You feel the stings of conscience.	你感到良心不安。
+You lie down to rest.	你躺下休息。
+You finished taking a rest.	你休息好了。
+After a short while, you drop off to sleep.	片刻后，你睡着了。
+You start to camp.	你开始露营。
+You lie down.	你躺了下来。
+You fall asleep.	你睡着了。
+But you can't sleep right now.	但你现在无法入睡。
+Gene	基因
+You spent a night with {name($1)}. A new gene is created.	你与{name($1)}共度一夜，产生了新的基因。
+Sweet.	真甜蜜。
+You have slept for {$1} hours. You are refreshed.	你睡了{$1}小时，精神焕发。
+You wake up feeling so so.	你醒来了，感觉一般。
+You wake up feeling good. Your potential increases. (Total:{$1}%)	你神清气爽地醒来，潜力提高了。（总计：{$1}%）
+You start to construct {itemname($1, 1)}.	你开始建造{itemname($1, 1)}。
+You finish constructing {itemname($1, 1)}.	你建好了{itemname($1, 1)}。
+You start to pull the hatch.	你开始拉开舱盖。
+You finish pulling the hatch of {itemname($1, 1)}.	你打开了{itemname($1, 1)}的舱盖。
+You start to pick {itemname($1, 1)}.	你开始撬开{itemname($1, 1)}。
+You are bored.	你感到无聊。
+You begin to study {$1}.	你开始学习{$1}。
+You start training.	你开始训练。
+The weather's bad outside, you have plenty of time to waste.	外面天气恶劣，你有大把空闲时间。
+You finish studying {$1}.	你完成了{$1}的学习。
+You finish training.	你完成了训练。
+{name($1)} start{s($1)} to read {itemname($2, 1)}.	{name($1)}开始阅读{itemname($2, 1)}。
+{name($1)} {have($1)} finished reading the book.	{name($1)}读完了这本书。
+*sing*	*歌唱*
+*pull*	*拉扯*
+*thud*	*咚*
+You harvest {itemname($1, 1)}. ({$2})	你收获了{itemname($1, 1)}。（{$2}）
+You start fishing.	你开始钓鱼。
+A waste of a time...	白费时间了……
+You get {itemname($1, 1)}!	你得到了{itemname($1, 1)}！
+You start to search the spot.	你开始搜索这里。
+You {$1} {$2} {$3}{s($2)}.	你{$1}了{$2}{$3}。
+dig up	挖出
+fish up	钓起
+harvest	收获
+find	发现
+get	获得
+You lose {$1} {$2}{s($1)}.	你失去了{$1}{$2}。
+(Total: {$1}) 	（总计：{$1}）
+Your mining attempt fails.	采矿失败了。
+There's no more ore around.	附近已经没有矿石。
+Your fishing attempt fails.	垂钓失败了。
+The spring dries up.	泉水干涸了。
+Your searching attempt fails.	搜索失败了。
+You can't find anything anymore.	你再也找不到东西了。
+There's no more plant around.	附近已经没有植物。
+You start to dig the ground.	你开始挖地。
+You start to dig the spot.	你开始挖掘这里。
+*clink*	*叮当*
+*smash*	*砰*
+*sigh*	*叹气*
+You finish digging.	你挖完了。
+*click* ...something is there!	*咔嗒*……下面有东西！
+You start to dig the wall.	你开始挖墙。
+You start to dig the mining spot.	你开始挖掘矿点。
+These walls look pretty hard!	这面墙看起来很坚硬！
+You finished digging the wall.	你挖穿了墙壁。
+You found something out of crushed heaps of rock.	你从碎石堆中发现了东西。
+Your back hurts...You give up digging.	你的背好痛……你放弃了挖掘。
+Suddenly, the iron maiden falls forward.	突然，铁处女向前倒下。
+Suddenly, the guillotine is activated.	突然，断头台启动了。
+Menu	菜单
+Items marked with * require restart to apply changes.	带 * 的设置需要重启游戏后生效。
+To assign a button, move the cursor to\nan item and press the button.	将光标移至项目上，\n再按要绑定的按键。
+(No description available.)	（暂无说明。）
+Play	播放
+Don't play	不播放
+Yes (Slow)	是（较慢）
+No (Fast)	否（较快）
+High	高
+Low	低
+Show	显示
+Don't show	不显示
+Don't use	不使用
+Enable	启用
+Disable	禁用
+On	开启
+Off	关闭
+No(unsupported)	否（不支持）
+{$1} wait	等待{$1}
+Every {$1} min.	每{$1}分钟
+Option	选项
+Extra Help	新手提示
+Show extra help popups for new players.	为新玩家显示额外帮助提示。
+Attack Netural NPCs	攻击中立角色
+Attack non-hostile, non-ally NPCs when running into them.	撞上非敌对且非同伴的角色时发动攻击。
+Default Save	默认存档
+Enable Cutscenes	播放剧情
+Enable playback of the story cutscenes.	播放剧情过场。
+Hide Auto-Identify	隐藏自动鉴定
+Hide identify status updates from Sense Quality.	隐藏品质感知产生的鉴定状态提示。
+Hide Shop Updates	隐藏商店报告
+Hide daily shop reports of items sold for shops you own.	隐藏自有商店的每日销售报告。
+Screen & Sound	画面与声音
+Sound*	音效*
+Enable or disable sound.	开启或关闭音效。
+Sound Volume*	音效音量*
+Set sound volume. It affects all sounds.	设置全部音效的音量。
+Music*	音乐*
+Enable or disable music.	开启或关闭音乐。
+Music Volume*	音乐音量*
+Set music volume. It affects all musics.	设置全部音乐的音量。
+Stereo Sound	立体声
+Screen Mode*	显示模式*
+Window mode	窗口模式
+Full screen	全屏模式
+Desktop fullscr	无边框全屏
+Screen Resolution*	屏幕分辨率*
+Shadow Quality	阴影质量
+Render shadows at higher quality.	使用更高质量的阴影。
+Object Shadow	物品阴影
+Display shadows under items on the ground.	在地面物品下显示阴影。
+Heartbeat Sound	心跳音效
+Heartbeat Threshold	心跳触发阈值
+% of HP remaining to play heartbeat sound at.	剩余生命低于此百分比时播放心跳声。
+Skip Random Events	跳过事件弹窗
+Network Setting	网络设置
+Use Network	使用网络
+Chat Log	聊天记录
+Only receive	仅接收
+Send & receive	发送与接收
+Death Log	死亡记录
+Wish Log	许愿记录
+Palmia Times	帕尔米亚时报
+Alias Vote	称号投票
+Hide Your Name	隐藏角色名
+Hide Your Alias	隐藏角色称号
+Chat Interval	接收间隔
+Animation Setting	动画设置
+Smooth Scroll	平滑滚动
+Enable scrolling animations.	启用画面滚动动画。
+Always Center	始终居中
+Always keep the center of the screen near the player when walking near the edge of the screen.	走近屏幕边缘时，仍让画面中心跟随玩家。
+Scroll When Run	奔跑时滚动
+General Wait	一般等待
+Animation Wait	动画等待
+Alert Wait	重要消息等待
+Auto Turn Speed	自动回合速度
+Highest	最高
+Attack Animation	攻击动画
+Play animations when melee/ranged attacking.	播放近战与远程攻击动画。
+Weather Effect	天气效果
+Play weather-related animations.	播放天气相关动画。
+Title Water Effect	标题水面效果
+Window Animation	窗口动画
+Play window animations for certain character-related menus.	在部分角色菜单中播放窗口动画。
+Screen Refresh	画面刷新间隔
+Input Setting	输入设置
+Auto-Disable Numlock	自动关闭数字锁定
+Walk Speed	行走速度
+Number of frames to wait between movement commands when walking.	行走时，两次移动指令之间等待的帧数。
+Run Speed	奔跑速度
+Number of frames to wait between movement commands when running.	奔跑时，两次移动指令之间等待的帧数。
+Run Start Wait	开始奔跑等待
+Number of movement commands to play when walking before starting to run.	开始奔跑前需要连续行走的步数。
+After {add($1, 1)} steps	{add($1, 1)}步后
+Attack Interval	攻击间隔
+Number of frames to wait between consecutive attacks when running into enemies.	撞向敌人连续攻击时的等待帧数。
+Key Wait	快捷键等待
+Number of frames to wait between presses of shortcut keys.	连续按快捷键时的等待帧数。
+Initial key repeat wait	首次连发等待
+Number of frames to wait between the first action and the second.	首次操作与第二次操作之间等待的帧数。
+Key repeat wait	按键连发间隔
+Number of frames to wait between any actions.	连续操作之间等待的帧数。
+Select Wait	选择等待
+Number of frames to wait between item selection initially.	开始选择物品时的等待帧数。
+Select Fast Start Wait	快速选择等待
+Number of selections to wait before selecting quickly.	进入快速选择前需要经过的选择次数。
+Select Fast Wait	快速选择间隔
+Number of frames to wait between item selection when selecting quickly.	快速选择物品时的等待帧数。
+Game Pad	手柄（原版设置）
+Font Setting	字体设置
+Vertical Offset	垂直偏移
+Size Adjustment	字号调整
+Rendering Quality	渲染质量
+Message & Log	消息与日志
+Add time info	添加回合时间
+Transparency	透明度
+Controls the amount of transparency older message log messages receive.	控制旧消息的透明度。
+Game Balance Setting	游戏平衡设置
+These settings affect game balance.	这些设置会影响游戏平衡。
+Restock Interval	补货间隔
+{$1} day{s($1)}	{$1}天
+Extra Race	额外种族
+Enable extra races in character creation.	允许在创建角色时选择额外种族。
+Extra Class	额外职业
+Enable extra classes in character creation.	允许在创建角色时选择额外职业。
+Language	语言
+Language*	语言*
+Japanese	日语
+English	英语
+Ex setting(foobar)	foobar扩展设置
+Extra config settings added in Elona foobar.	Elona foobar新增的扩展设置。
+Pets' HP bar	同伴生命条
+Show left side	显示在左侧
+Show right side	显示在右侧
+Allow enhanced skill tracking	增强技能追踪
+Enhanced tracking lowerbound	追踪潜力下限
+Enhanced tracking upperbound	追踪潜力上限
+Leash icon	牵引绳图标
+Autopick	自动拾取
+Automatically pick up items you pass over.	自动拾取经过位置上的物品。
+Autosave	自动保存
+Damage popup	伤害数字
+Show damage popups.	显示伤害数字。
+Max damage popup	伤害数字上限
+PCC Graphic	角色纸娃娃图像
+Shrinked	缩小
+Full-scale	原始大小
+Show FPS	显示帧率
+Skip confirm at shop	跳过交易确认
+Skip confirm to buy or sell items at town shops.	在城镇商店买卖物品时跳过确认。
+Skip over-casting warning	跳过透支施法警告
+Skip warning prompt displayed when you are going to over-cast spells.	魔力不足而准备透支施法时不再警告。
+Digital clock	数字时钟
+Replace default clock with a simple 24 hours digital clock.	将默认时钟替换为24小时数字时钟。
+Party auto target	同伴自动索敌
+Party members will automatically attack enemies that are visible to you.	同伴会自动攻击玩家视野中的敌人。
+Wizard Mode Settings	巫师模式设置
+No HP Damage	生命不受损
+You don't receive any HP damage.	不受到生命伤害。
+No MP Damage	魔力不受损
+You don't receive any MP damage.	不受到魔力伤害。
+No SP Damage	体力不受损
+You don't receive any SP (stamina) damage.	不受到体力伤害。
+No Spellstock Cost	不消耗法术存量
+You spend no spellstock.	施法不消耗法术存量。
+No Hungry	不会饥饿
+You won't get hungry.	不会产生饥饿。
+No Sleepy	不会困倦
+You won't get sleepy.	不会产生困倦。
+Can Unlock All Keys	开锁必定成功
+You can unlock all keys without failure.	打开所有锁时都不会失败。
+Can Cast All Spells	施法必定成功
+You can cast all spells without failure. (Your success rates to cast spells become 100%.)	所有法术的施放成功率均为100%。
+Keybindings	按键绑定
+Configure game keybindings.	设置游戏按键绑定。
+Mod Settings	模组设置
+It 	它
+has essential nutrients to enhance your {$1}.	含有能提升{$1}的营养。
+has which deteriorates your {$1}.	会降低{$1}。
+increases your {$1} by {$2}.	使{$1}提高{$2}。
+decreases your {$1} by {$2}.	使{$1}降低{$2}。
+grants your resistance to {$1}.	提高对{$1}的抗性。
+weakens your resistance to {$1}.	降低对{$1}的抗性。
+improves your {$1} skill.	提高{$1}技能。
+decreases your {$1} skill.	降低{$1}技能。
+can help you exercise your {$1} faster.	有助于更快锻炼{$1}。
+maintains {$1}.	维持{$1}。
+deals {$1} damage.	造成{$1}伤害。
+invokes {$1}.	触发{$1}。
+can be loaded with {$1}.	可装填{$1}。
+Max {$1}	最多{$1}
+rapid ammo	速射弹
+explosive ammo	爆炸弹
+piercing ammo	穿甲弹
+magic ammo	魔法弹
+time stop ammo	时停弹
+burst ammo	连射弹
+causes random teleport.	会引发随机传送。
+prevents you from teleporting.	阻止你传送。
+negates the effect of blindness.	免疫失明。
+negates the effect of paralysis.	免疫麻痹。
+negates the effect of confusion.	免疫混乱。
+negates the effect of fear.	免疫恐惧。
+negates the effect of sleep.	免疫睡眠。
+negates the effect of poison.	免疫中毒。
+speeds up your travel progress.	加快旅行进程。
+protects you from Etherwind.	保护你免受以太风侵袭。
+negates the effect of being stranded by bad weather.	避免因恶劣天气而受困。
+floats you.	使你漂浮。
+protects you from mutation.	保护你免于变异。
+enhances your spells.	增强法术效果。
+allows you to see invisible creatures.	使你看见隐形生物。
+absorbs stamina from an enemy.	吸取敌人的体力。
+brings an end.	带来终结。
+absorbs MP from an enemy.	吸取敌人的魔力。
+gives you a chance to throw an absolute piercing attack.	有几率发动绝对贯穿攻击。
+occasionally stops time.	偶尔使时间停止。
+protects you from thieves.	保护你免遭盗窃。
+allows you to digest rotten food.	使你能够消化腐烂食物。
+protects you from cursing words.	保护你免受诅咒之语影响。
+increases your chance to deliver critical hits.	提高暴击几率。
+sucks blood of the wielder.	吸取持有者的鲜血。
+disturbs your growth.	阻碍你的成长。
+attracts monsters.	吸引怪物。
+prevents aliens from entering your body.	阻止异形寄生。
+increases the quality of reward.	提高报酬品质。
+increases the chance of extra melee attack.	提高追加近战攻击的几率。
+increases the chance of extra ranged attack.	提高追加远程攻击的几率。
+decreases physical damage you take.	减少受到的物理伤害。
+sometimes nullifies damage you take.	有时使受到的伤害无效。
+deals cut damage to the attacker.	对攻击者造成切割伤害。
+diminishes bleeding.	减轻出血。
+catches signals from God.	接收神的电波。
+inflicts massive damage to dragons.	对龙族造成巨大伤害。
+inflicts massive damage to undeads.	对亡灵造成巨大伤害。
+reveals religion.	揭示信仰。
+makes audience drunk with haunting tones.	以迷人的音色令听众沉醉。
+inflicts massive damage to Gods.	对神造成巨大伤害。
+of fire	之火焰
+of silence	之沉默
+of cold	之寒冰
+of lightning	之雷电
+of defender	之守护
+of healing	之治愈
+of resist blind	之抗盲
+of resist paralysis	之抗麻痹
+of resist confusion	之抗混乱
+of resist fear	之抗恐惧
+of resist sleep	之抗睡眠
+singing	歌唱的
+servant's	仆从的
+follower's	追随者的
+howling	咆哮的
+glowing	发光的
+conspicuous	显眼的
+magical	魔法的
+enchanted	附魔的
+mighty	强大的
+trustworthy	可靠的
+<Diablo>	《迪亚布罗》
+<Zantetsu>	《斩铁剑》
+<Scythe of Void>	《虚空之镰》
+<Mournblade>	《哀恸之刃》
+<Ragnarok>	《诸神黄昏》
+healer <Odina>	治疗〈奥迪娜〉
+healer <Eris>	治疗〈艾莉丝〉
+healer <Jure>	治疗〈朱亚〉
+gazania	勋章菊
+nerine	尼润花
+anemos	银莲花
+foxtail grass	狗尾草
+carnation	康乃馨
+ornamented with plants	绿植装饰
+ornamented with flowers	鲜花装饰
+sewing kit	缝纫工具
+carpenter's tool	木工工具
+messy cloth	脏布
+silk cloth	丝绸
+collapsed grave	坍塌的坟墓
+crumbled grave	破损的坟墓
+brand new grave	崭新的坟墓
+solemn tomb	庄严的陵墓
+ancient tomb	古代陵墓
+old grave	旧坟墓
+altar	祭坛
+ceremony altar	仪式祭坛
+fountain	喷泉
+bunk bed	双层床
+slow	迟缓
+quwapana	库瓦巴果
+aloe	芦荟
+edible wild plant	可食用野草
+apple	苹果
+grape	葡萄
+kiwi	猕猴桃
+cherry	樱桃
+guava	番石榴
+carrot	胡萝卜
+radish	萝卜
+sweet potato	红薯
+lettuce	生菜
+dish	料理
+imo	伊莫薯
+api nut	阿比果
+strawberry	草莓
+healthy leaf	健康叶
+rainbow fruit	彩虹果
+qucche	库奇果
+tangerine	橘子
+lemon	柠檬
+green pea	青豌豆
+cbocchi	卡博奇
+melon	甜瓜
+leccho	莱丘果
+magic mapping	魔法地图
+cure	治疗
+corpse	尸体
+whisky	威士忌
+<Ether Dagger>	《以太匕首》
+<Bow of Vindale>	《温戴尔之弓》
+worthless fake gold bar	不值钱的假金条
+sickle	镰刀
+staff	法杖
+spear	长枪
+ore piece	矿石碎块
+empty bottles	空瓶堆
+basket	篮子
+empty bowl	空碗
+bowl	碗
+tight rope	结实的绳索
+dead fish	死鱼
+straw	稻草
+animal bone	兽骨
+pot	罐子
+katana	太刀
+scimitar	弯刀
+battle axe	战斧
+trident	三叉戟
+long staff	长杖
+short bow	短弓
+machine gun	机关枪
+claymore	大剑
+bardiche	长柄战斧
+halberd	戟
+return	归还
+warrior	战士
+sword	剑
+bejeweled chest	镶宝石的宝箱
+chest	宝箱
+safe	保险箱
+magical map	魔法地图
+gain attribute	提升属性
+wonder	奇迹
+cure <Eris>	治疗〈艾莉丝〉
+cure <Jure>	治疗〈朱亚〉
+beer	啤酒
+horn	号角
+campfire	篝火
+portable cooking tool	便携烹饪工具
+magic arrow	魔法箭
+stick bread	长棍面包
+raw noodle	生面条
+flour	面粉
+bomb fish	炸弹鱼
+nether eye	地狱之眼
+chaos eye	混沌之眼
+nerve eye	神经之眼
+wakizashi	胁差
+darkness beam	黑暗射线
+illusion beam	幻惑射线
+ice ball	冰球
+fire ball	火球
+sound ball	音波球
+chaos ball	混沌球
+fire wood	柴火
+scarecrow	稻草人
+broom	扫帚
+long pillar	长柱
+broken pillar	断柱
+street lamp	路灯
+water tub	水桶
+comfortable table	舒适的桌子
+inner tube	游泳圈
+mysterious map	神秘地图
+suitcase	手提箱
+wallet	钱包
+restore body	恢复肉体
+restore spirit	恢复精神
+potential	潜力
+curse	诅咒
+wishing	许愿
+well kept armor	保养良好的铠甲
+towel	毛巾
+ragged table	破旧的桌子
+cabinet	橱柜
+luxury bed	豪华床
+vase	花瓶
+high grade dresser	高级梳妆台
+neat bar table	整洁的吧台
+large bouquet	大花束
+giant bed	巨型床
+plain bed	普通床
+coffin	棺材
+food processor	食物处理机
+soft bed	柔软的床
+cheap rack	廉价架子
+dresser	梳妆台
+clean bed	干净的床
+bathtub	浴缸
+pachisuro machine	柏青老虎机
+casino table	赌桌
+slot machine	老虎机
+darts board	飞镖靶
+big foliage plant	大型观叶植物
+old shelf	旧架子
+old bookshelf	旧书架
+cheap bed	廉价床
+cheap table	廉价桌子
+neat rack	整洁的架子
+simple dresser	简易梳妆台
+big cupboard	大橱柜
+sacred altar	神圣祭坛
+comfortable bed	舒适的床
+simple rack	简易架子
+wide chair	宽椅
+upright piano	立式钢琴
+cross	十字架
+stump	树桩
+dress	礼服
+table	桌子
+throne	王座
+golden pedestal	黄金台座
+money	金钱
+skin	皮
+blood	血液
+eye	眼睛
+heart	心脏
+fishing pole	钓竿
+rune	符文
+deed	契约书
+moonfish	月亮鱼
+sardine	沙丁鱼
+flatfish	比目鱼
+manboo	翻车鱼
+seabream	鲷鱼
+salmon	鲑鱼
+globefish	河豚
+tuna	金枪鱼
+cutlassfish	带鱼
+sandborer	沙钻鱼
+<Gloves of Vesda>	《维斯达的护手》
+<Blood Moon>	《血月》
+<Ring of Steel Dragon>	《钢铁龙戒指》
+<Staff of Insanity>	《疯狂之杖》
+<Rankis>	《兰奇斯》
+<Palmia Pride>	《帕尔米亚之荣》
+shopkeeper's trunk	店主的箱子
+greater identify	高级鉴定
+vanish curse	解除诅咒
+defender	防御者
+holy shield	神圣之盾
+silence	沉默
+regeneration	再生
+troll blood	巨魔之血
+resistance	抗性
+speed	速度
+hero	英雄
+weakness	虚弱
+elemental scar	元素伤痕
+holy veil	神圣之幕
+holy light	圣光
+holy rain	圣雨
+mana	魔力
+sulfuric	硫酸
+gem cutter	宝石切割工具
+material box	素材箱
+gain material	获取素材
+nightmare	噩梦
+knowledge	知识
+piano	钢琴
+rope	绳索
+grave	坟墓
+tuna fish	金枪鱼
+noble toy	贵族玩具
+detect objects	物体感知
+red treasure machine	红色扭蛋机
+blue treasure machine	蓝色扭蛋机
+treasure ball	扭蛋
+rare treasure ball	稀有扭蛋
+vegetable seed	蔬菜种子
+fruit seed	水果种子
+herb seed	药草种子
+unknown seed	未知种子
+artifact seed	神器种子
+morgia	莫尔吉亚草
+mareilon	玛雷伊隆草
+spenseweed	斯佩斯草
+curaria	库拉利亚草
+alraunia	阿尔劳尼亚草
+stomafillia	斯托马菲利亚草
+sleeping bag	睡袋
+weaken resistance	削弱抗性
+growth	成长
+faith	信仰
+mutation	变异
+cure mutation	治疗变异
+banded mail	条板甲
+plate mail	板甲
+ring mail	环甲
+composite mail	复合铠甲
+chain mail	锁子甲
+pope robe	教皇长袍
+light mail	轻甲
+coat	外套
+breast plate	胸甲
+bulletproof jacket	防弹衣
+gloves	手套
+plate gauntlets	板甲护手
+light gloves	轻手套
+composite gauntlets	复合护手
+round shield	圆盾
+shield	盾
+large shield	大盾
+kite shield	鸢盾
+tower shield	塔盾
+shoes	鞋
+boots	靴子
+tight boots	紧身靴
+armored boots	装甲靴
+composite girdle	复合腰带
+plate girdle	金属腰带
+armored cloak	装甲披风
+cloak	披风
+feather hat	羽毛帽
+heavy helm	重型头盔
+knight helm	骑士头盔
+composite helm	复合头盔
+peridot	橄榄石
+talisman	护符
+neck guard	护颈
+charm	幸运符
+bejeweled amulet	宝石护身符
+engagement amulet	订婚项链
+composite ring	复合戒指
+armored ring	装甲戒指
+ring	戒指
+engagement ring	订婚戒指
+stethoscope	听诊器
+ally	盟友
+domination	支配
+crossbow	弩
+bolt	弩箭
+web	蛛网
+machine	机器
+computer	电脑
+training machine	训练机
+camera	相机
+microwave oven	微波炉
+server	服务器
+storage	储物箱
+trash can	垃圾桶
+chip	芯片
+blank disc	空白光盘
+shot gun	霰弹枪
+pop corn	爆米花
+fried potato	炸薯条
+cyber snack	电子零食
+inferior material	低级材质
+change material	改变材质
+superior material	高级材质
+figurine	雕像
+card	卡片
+little sister's diary	小妹妹的日记
+enchant weapon	强化武器
+greater enchant weapon	高级强化武器
+enchant armor	强化防具
+greater enchant armor	高级强化防具
+heir trunk	继承者的箱子
+heirship	继承权
+laser gun	激光枪
+energy cell	能量电池
+<Rail Gun>	《电磁炮》
+recharge	充能
+water	水
+change creature	改变生物
+alchemy	炼金术
+dye	染料
+wing	羽翼
+museum	博物馆
+shop	商店
+beech	山毛榉
+cedar	雪松
+fruitless	不结果的树
+fruits	果树
+dead tree	枯树
+zelkova	榉树
+palm	棕榈树
+ash	白蜡树
+furnance	熔炉
+fireplace	壁炉
+stove	炉灶
+giant foliage plant	巨型观叶植物
+big table	大桌子
+madam	贵妇画像
+landscape	风景画
+sunflower	向日葵
+cat	猫
+black crystal	黑水晶
+snow man	雪人
+farm	农场
+storage house	仓库
+disc	光盘
+wall creation	造墙
+salary chest	工资箱
+healing rain	治愈之雨
+healing hands	治愈之手
+feather	羽毛
+gem seed	宝石种子
+magical seed	魔法种子
+shelter	避难所
+seven league boots	七里靴
+vindale cloak	温戴尔披风
+aurora ring	极光戒指
+cure corruption	治疗以太病
+master's delivery chest	主人的配送箱
+shop strongbox	商店保险柜
+register	收银机
+textbook	教科书
+acid ground	酸液地面
+acidproof liquid	耐酸涂液
+fireproof blanket	防火毯
+coldproof blanket	防寒毯
+fire wall	火墙
+jerky	肉干
+ranch	牧场
+egg	蛋
+milk	牛奶
+shit	粪便
+playback disc	播放光盘
+molotov	燃烧瓶
+kitty bank	小猫储钱罐
+freezer	冰箱
+modern rack	现代架子
+make door	造门
+torch	火把
+candle	蜡烛
+fancy lamp	精致的灯
+modern lamp	现代灯
+snow	雪
+naked	裸树
+fir	冷杉
+snow scarecrow	雪地稻草人
+mini snow man	迷你雪人
+snow barrel	积雪木桶
+holy cross	神圣十字架
+pillar	柱子
+stained glass window	彩绘玻璃窗
+christmas tree	圣诞树
+giant's shackle	巨人的枷锁
+empty bottle	空瓶
+holy well	圣井
+president's chair	主席椅
+green plant	绿色植物
+money tree	金钱树
+barbecue set	烧烤架
+giant cactus	巨型仙人掌
+square window	方窗
+window	窗户
+triangle plant	三角盆栽
+house board	房屋告示板
+nice window	精致的窗户
+king's bed	国王的床
+flower arch	花拱门
+bill	账单
+tax master's tax box	税务官的纳税箱
+bait	鱼饵
+love potion	媚药
+treasure map	藏宝图
+small medal	小奖章
+cat sister's diary	猫妹妹的日记
+girl's diary	少女的日记
+shrine gate	鸟居
+hermes blood	赫尔墨斯之血
+<Sage's Helm>	《贤者头盔》
+disguise set	变装套装
+material kit	素材工具包
+moon gate	月之门
+flying scroll	飞翔卷轴
+panty	内裤
+leash	牵引绳
+mine	地雷
+lockpick	开锁工具
+skeleton key	万能钥匙
+escape	逃脱
+happy apple	幸福苹果
+unicorn horn	独角兽之角
+cooler box	冷藏箱
+hero cheese	英雄奶酪
+rice barrel	米桶
+eastern bed	东方床铺
+decorated window	装饰窗
+king drawer	皇家抽屉柜
+menu board	菜单板
+black board	黑板
+sofa	沙发
+flowerbed	花坛
+toilet	马桶
+craft cupboard	工艺橱柜
+junk	杂物
+double bed	双人床
+eastern lamp	东方灯
+eastern window	东方窗
+chochin	提灯
+partition	隔断
+darkness arrow	黑暗之箭
+<Dal-i-thalion>	《达尔·伊·萨里昂》
+magic fruit	魔法果实
+monster heart	怪物之心
+speed ring	速度戒指
+Opatos	欧巴托斯
+Lulwy	露露薇
+sister's love fueled lunch	妹妹的爱心便当
+art	艺术品
+nuclear bomb	核弹
+secret treasure	秘宝
+<Wind Bow>	《风神之弓》
+<Winchester Premium>	《温彻斯特特制枪》
+<Kumiromi Scythe>	《库米罗米之镰》
+<Elemental Staff>	《元素法杖》
+<Holy Lance>	《圣枪》
+<Lucky Dagger>	《幸运匕首》
+<Gaia Hammer>	《盖亚之锤》
+god speed	神速
+rejuvenation	返老还童
+Mani	玛尼
+gene machine	基因合成机
+monster ball	怪物球
+Jure	朱亚
+ancient book	古书
+iron maiden	铁处女
+guillotine	断头台
+pan flute	排箫
+lute	鲁特琴
+harmonica	口琴
+harp	竖琴
+eastern partition	东方隔断
+<Axe of Destruction>	《破坏之斧》
+magic ball	魔法球
+magic laser	魔法激光
+salt solution	盐水
+little ball	小球
+town book	城镇书籍
+deck	卡组
+rabbit's tail	兔尾巴
+whistle	哨子
+vomit	呕吐物
+<Beggar's Pendant>	《乞丐的项链》
+descent	降临
+<Stradivarius>	《斯特拉迪瓦里小提琴》
+resurrection	复活
+contingency	应急措施
+evolution	进化
+dungeon	地下城
+shuriken	手里剑
+grenade	手榴弹
+Kumiromi	库米罗米
+<Vanilla Rock>	《香草石》
+Lomias	罗米阿斯
+<Shena's Panty>	《希娜的内裤》
+<Claymore>	《大剑》
+happy bed	幸福之床
+Ehekatl	艾赫卡托尔
+<Arbalest>	《重弩》
+<Twin Edge>	《双刃》
+music ticket	音乐券
+<Kill Kill Piano>	《杀戮钢琴》
+<Al'ud>	《阿鲁德》
+<Shield of Thorn>	《荆棘之盾》
+<Crimson Plate>	《绯红铠甲》
+gift	礼物
+friendship	友谊
+4 dimensional pocket	四次元口袋
+sand bag	沙袋
+small gamble chest	小赌博宝箱
+scythe	大镰
+fireproof liquid	耐火涂液
+name	命名
+fortune cookie	幸运饼干
+<Frisia's Tail>	《芙莉希娅之尾》
+<Unknown Shell>	《未知之贝》
+<Hiryu-To>	《飞龙刀》
+the void explorer	虚空探索者
+Carneades	卡尔内亚德斯
+Schrodinger's cat	薛定谔的猫
+tamer's whip	驯兽师之鞭
+Bokonon	博科农
+summoning crystal	召唤水晶
+Creator	造物主
+upstairs	上楼梯
+downstairs	下楼梯
+new year's gift	新年礼物
+kotatsu	暖桌
+daruma	达摩不倒翁
+kagami mochi	镜饼
+mochi	年糕
+<Five Horned Helm>	《五角头盔》
+<Mauser C96 Custom>	《毛瑟C96改装枪》
+lightsabre	光剑
+Garok's hammer	加洛克之锤
+<Gould's Piano>	《古尔德的钢琴》
+festival wreath	节日花环
+pedestal	台座
+counter	柜台
+red stall	红色货摊
+blue stall	蓝色货摊
+Jure's body pillow	朱亚抱枕
+new year's decoration	新年装饰
+miniature tree	迷你树
+soda	汽水
+blue capsule drug	蓝色胶囊药
+tomato	番茄
+large bookshelf	大书架
+luxury cabinet	豪华橱柜
+special steamed meat bun	特制肉包
+luxury sofa	豪华沙发
+deer head	鹿头装饰
+fur carpet	毛皮地毯
+kitchen knife	菜刀
+recipe	配方
+recipe holder	配方册
+salt	盐
+sugar	糖
+puff puff bread	松软面包
+skull bow	骷髅弓
+for testing	测试用
+<Dragon Slayer>	《屠龙剑》
+putitoro	普提托罗
+Your journal has been updated.	任务日志已更新。
+{$1} min left for the quest.	任务剩余{$1}分钟。
+You have completed the quest!	你完成了任务！
+You have completed the quest taken from {$1}.	你完成了{$1}委托的任务。
+You have failed the quest taken from {$1}.	{$1}委托的任务失败了。
+You gain {$1} fame.	你获得了{$1}点名声。
+You lose {$1} fame.	你失去了{$1}点名声。
+The area is secured!	这片区域已经安全了！
+{$1} more to go.	还剩{$1}个。
+The party is over.	宴会结束了。
+Your final score is {$1} points!	你的最终得分为{$1}！
+People had a hell of a good time!	大家玩得非常尽兴！
+The party turned out to be a big flop...	宴会办砸了……
+{basename($1)} {is($1)} satisfied.	{basename($1)}感到满意。
+(Total Bonus:{$1}%)	（总加成：{$1}%）
+You complete the task!	你完成了委托！
+You fail to fulfill your task...	你未能完成委托……
+You successfully slay the target.	你成功讨伐了目标。
+You failed to slay the target...	你未能讨伐目标……
+You commit a serious crime!	你犯下了重罪！
+You complete the escort.	你完成了护送。
+You have failed to protect the client.	你未能保护委托人。
+You left your client.	你丢下了委托人。
+\"Hey, the assassins are killing me.\"	「救命！刺客要杀了我！」
+\"Poison! P-P-Poison in my vein!!\"	「毒！我、我中毒了！！」
+\"I missed the deadline. I don't have a right to live anymore.\" {name($1)} pours a bottole of molotov cocktail over {himself($1)}.	「我错过了期限，已经没有活下去的资格了。」{name($1)}把一瓶燃烧液浇在自己身上。
+You are victorious!	你获胜了！
+Your team is victorious!	你的队伍获胜了！
+Your team is defeated.	你的队伍败北了。
+Stairs appear.	楼梯出现了。
+You were defeated.	你败北了。
+You have {$1} days to perform the task.	你有{$1}天时间完成委托。
+How about it?	怎么样？
+You've done well. Thanks. Here's your reward.	干得好，谢谢。这是你的报酬。
+I've added some extra coins since you worked really hard.	看你这么努力，我额外加了一些金币。
+The party was terrific! I'll give you these tickets as an extra bonus.	宴会棒极了！这些音乐券是额外奖励。
+{$1} gold pieces	{$1}枚金币
+ and 	与
+{$1}d	{$1}天
+(Heavy!)	（很重！）
+ (Now {$1})	（当前{$1}）
+Gather harvests weight {$1}.	采集总重{$1}的农作物。
+Gather {$1}.	获得{$1}。
+{$1} points	{$1}分
+Escort the client to {$1}.	护送委托人前往{$1}。
+Eliminate monsters.	消灭怪物。
+Give {$1} to the client.	将{$1}交给委托人。
+Deliver {$1} to {$3} who lives in {$2}.	把{$1}送给住在{$2}的{$3}。
+Slay {$1}.	讨伐{$1}。
+unknown monster	未知怪物
+Eliminate monsters	消灭怪物
+Acquire {$1} from {$2} for the client.	前往{$2}为委托人取得{$1}。
+the target in {$1}	{$1}中的目标
+Complete	完成
+Job	委托
+Client  : 	委托人：
+Location: 	地点：
+Deadline: 	期限：
+Reward  : 	报酬：
+Detail  : 	详情：
+Report to the client.	向委托人报告。
+An old talisman	古老的护符
+A letter to the king	致国王的信
+Fool's magic stone	愚者魔石
+King's magic stone	王者魔石
+Sage's magic stone	贤者魔石
+Main Quest	主线任务
+I should check the dungeon called Lesimas. It's located south of Vernis.	我应该探索名为莱洞的地下城，它位于韦尔尼斯南方。
+The injured scout asked me to deliver a letter to the king of Palmia. Palmia is located east of Vernis.	受伤的侦察兵托我把信交给帕尔米亚的国王。帕尔米亚位于韦尔尼斯东方。
+Erystia will have some tasks for me if I want to work for Palmia. She's in the library of the castle.	如果愿意为帕尔米亚效力，可以去找艾莉丝蒂亚接受任务。她在城堡的图书馆里。
+Erystia asked to look for an adventurer called Karam in the dungeon of Lesimas. He was on the 16th level of the dungeon the last time he sent a report. I may have to go deeper if I am to find him.	艾莉丝蒂亚让我去莱洞寻找冒险者卡拉姆。他最后一次报告时位于地下16层。要找到他，可能还得继续深入。
+I need to bring information Karam gave me to Erystia at once.	我得立刻将卡拉姆提供的情报带给艾莉丝蒂亚。
+I need to find 3 magic stones to break the seal of Lesimas. They can be found at the Tower of Fire, the crypt of the damned and the Ancient Castle	我需要三颗魔石才能解开莱洞的封印。它们分别位于火焰之塔、诅咒者墓穴与古城。
+With 3 magic stones I have, I need to get to the deepest level of Lesimas and break the seal. Then bring back an item called Hidden Artifact of Lesimas, whatever it is.	三颗魔石已经集齐。我得前往莱洞最深处解开封印，再带回那件名为莱洞秘宝的物品。
+You have completed the main quest.	你完成了主线任务。
+Sub Quest	支线任务
+Done	已完成
+Putit attacks Lv6	普提特袭击 Lv6
+Miches of Vernis asked me to investigate the house just south of her home.	韦尔尼斯的米歇斯让我调查她家正南方的房子。
+I've wiped out the putit's nest. I have to visit Miches of Vernis to report it.	我清除了普提特的巢穴，该回韦尔尼斯向米歇斯报告了。
+Thieves' hideout Lv2	盗贼藏身处 Lv2
+Bandits have been stealing things in Vernis. I need to find and destroy their hideout.	盗贼不断在韦尔尼斯偷东西。我得找到并摧毁他们的藏身处。
+Those bandits are no more. All I have to do now is bring the news to Shena of Vernis.	盗贼已经被消灭，该把消息带给韦尔尼斯的希娜了。
+Puppy's cave Lv4	小狗洞窟 Lv4
+Rilian of Vernis asked me to find her puppy named Poppy in the puppy's cave located east of Vernis.	韦尔尼斯的莉莉安让我去城东的小狗洞窟，寻找她的小狗波比。
+Nightmare Lv50	噩梦 Lv50
+Loyter of Vernis has a dangerous, yet highly profitable job for me. I need to prepare well before talking to him again.	韦尔尼斯的罗伊特有一份危险但报酬丰厚的委托。再次找他之前，我得做好准备。
+I need to eliminate all of the monsters in the test ground.	我得消灭试炼场中的所有怪物。
+I've survived the nightmare. Now to meet Loyer of Vernis to receive the reward.	我从噩梦中活下来了。现在去韦尔尼斯找罗伊特领取报酬。
+Pael and her mom Lv20	帕艾尔与母亲 Lv20
+Pael's mother is suffering from Ether Disease and I gave Pael a potion of cure corruption in Noyel. Let's wait until the condition of her mother changes.	帕艾尔的母亲患上了以太病。我在诺耶尔给了帕艾尔一瓶治疗以太病的药水，接下来等她母亲的病情变化。
+There's a change in the condition of Pael's mother. I should go check her when I have time.	帕艾尔母亲的病情发生了变化。有空时应该去看看她。
+Wife collector Lv3	妻子收藏家 Lv3
+I was asked by Raphael of Port Kapul to bring my wife. What a moron.	卡普尔港的拉斐尔让我把妻子带给他。真是个蠢货。
+Cat house Lv25	猫屋 Lv25
+Tam of Yowyn asked me to eliminate the cats in his house. The house is located southern part of Yowyn.	约恩村的塔姆让我清除他家里的猫。他家位于村子南部。
+I've freed Tam's house from the cats. To get the reward, I need to speak Tam again in Yowyn.	塔姆家里的猫已经清除。回约恩村找他领取报酬。
+Defense line Lv17	防卫战线 Lv17
+Colonel Gilbert of Yowyn asked me to help the Juere freedom force fight the Yerles Army. I should speak to him again when I'm ready.	约恩村的吉尔伯特上校请我协助朱伊安自由军抵抗耶鲁士军。准备好后再去找他。
+I need to destroy the Yerles Army.	我得消灭耶鲁士军。
+I've won the war. Now to bring the good news to colonel Gilbert.	我赢得了战斗，该把好消息告诉吉尔伯特上校。
+Novice knightLv8	见习骑士 Lv8
+Ainc of Yowyn asked me to help his promotion task. I need to enter the Yeek's dungeon which is located west of Yowyn and kill the chief.	约恩村的艾因克请我帮忙完成晋升任务。我得前往村西的耶克巢穴，杀死首领。
+I've defeated the chief of Yeek. I should head back to Yowyn and report to Ainc.	我击败了耶克首领，该回约恩村向艾因克报告。
+Kamikaze attack Lv14	自爆袭击 Lv14
+Arnord of Port Kapul asked me to help the isolated Palmian 10th regiment from massive Kamikaze attacks. I should prepare and speak to Arnord when ready.	卡普尔港的阿诺德请我援助孤立的帕尔米亚第十军团，抵御大规模自爆袭击。准备好后再去找他。
+I have to hold the battle line to gain time while the Palmian army retreats. A messenger will inform me when it's done.	我得守住战线，为帕尔米亚军撤退争取时间。撤退完成时会有信使通知。
+I survived the kamikaze attack. I have to bring the good news to Arnord of Port Kapul.	我从自爆袭击中活下来了，该把好消息带给卡普尔港的阿诺德。
+Mia's dream Lv1	米娅的梦想 Lv1
+Mia of Palmia wants a silver cat, a very rare cat. If I happen to capture one, I should bring it to Mia.	帕尔米亚的米娅想要一只稀有的银猫。如果抓到，就带给她吧。
+Rare books Lv12	珍稀书籍 Lv12
+Renton of Lumiest is looking for the fairy tale books written by Rachael. I should bring it to him if I happen to find one. There're total of 4 books in the series.	鲁米艾斯特的伦顿正在寻找蕾切尔写的童话书。这套书共有四册，找到后可以带给他。
+Pyramid trial Lv16	金字塔试炼 Lv16
+I've got a invitation to the pyramid. The pyramid is located north of Port Kapul and it is rumored that it holds great treasure.	我收到了金字塔的邀请函。金字塔位于卡普尔港北方，传闻里面藏着珍宝。
+Red blossom in Palmia Lv14	帕尔米亚的红色花朵 Lv14
+Noel of Derphy asked me to set up a bomb in Palmia. I need to place it right on the teddy bear in the inn.	德尔菲的诺艾尔让我在帕尔米亚安放炸弹。必须把炸弹放在旅馆的泰迪熊上。
+I have successfully destroyed Palmia. Now all I need to report back to Noel in Derphy.	我成功摧毁了帕尔米亚，接下来回德尔菲向诺艾尔报告。
+Ambitious scientist Lv5	野心勃勃的科学家 Lv5
+Icolle of Port Kapul asked me to bring 5 filled monster balls. I still need to bring him {$1} of them.	卡普尔港的伊科尔让我带来五个装有怪物的怪物球。目前还差{$1}个。
+Sewer sweeping Lv23	清扫下水道 Lv23
+Balzak of Lumiest wants me to sweep the entire sewer. I can find the entrance to the sewer around the inn.	鲁米艾斯特的巴尔扎克让我清扫整个下水道。入口就在旅馆附近。
+I've finished sweeping the sewer. I need to report it to Balzak of Lumiest.	下水道已经清扫完毕，该向鲁米艾斯特的巴尔扎克报告。
+Joining the Mages Guild	加入法师公会
+To join the Mages Guild, I need to gather {$1} more guild points and talk to the guild guard in Lumiest. I can earn the guild points by collecting ancients books, decrypt them, and put them into the delivery box near the guild guard.	要加入法师公会，还需获得{$1}点公会积分，再找鲁米艾斯特的公会守卫。收集古书、解读后投入守卫附近的配送箱，可以获得积分。
+Joining the Thieves Guild	加入盗贼公会
+To join the Thieves Guild, I need to not pay tax for 4 months, that means I'll be a criminal for sure.	要加入盗贼公会，必须连续四个月不交税。这肯定会让我成为罪犯。
+Joining the Fighters Guild	加入战士公会
+To join the Fighters Guild, I need to slay {$1} more {$2} and talk to the guild guard in Port Kapul.	要加入战士公会，还需讨伐{$1}只{$2}，再找卡普尔港的公会守卫。
+The Mages Guild quota	法师公会任务
+To raise the rank in the Mages Guild, you need to gather {$1} more guild points and talk to the guard in Lumiest. I can earn the guild points by collecting ancients books, decrypt them, and put them into the delivery box near the guild guard.	要提升法师公会等级，还需获得{$1}点积分，再找鲁米艾斯特的公会守卫。收集并解读古书，将其投入守卫附近的配送箱即可获得积分。
+The Fighters Guild quota	战士公会任务
+To raise the rank in the Fighters Guild, I need to slay {$1} more {$2} and talk to the guild guard in Port Kapul.	要提升战士公会等级，还需讨伐{$1}只{$2}，再找卡普尔港的公会守卫。
+The Thieves Guild quota	盗贼公会任务
+To raise the rank in the Thieves Guild, I need to sell stolen goods worth total of {$1} gold pieces and talk to the guild guard in Derphy.	要提升盗贼公会等级，还需出售总值{$1}枚金币的赃物，再找德尔菲的公会守卫。
+Minotaur king Lv24	米诺陶王 Lv24
+General Conery wants me to hunt the chief of minotaur. The nest is located south of Yowyn.	科内利将军让我讨伐米诺陶首领。巢穴位于约恩村南方。
+I've killed the chief of minotaur. I should head back to Palmia and speak to General Conery.	我杀死了米诺陶首领，该回帕尔米亚向科内利将军报告。
+Little sister Lv30	小妹妹 Lv30
+A strange scientist asked me to bring little sisters to her. To capture a little sister, I need to kill Big daddy first then throw the little ball at her.	一位奇怪的科学家让我把小妹妹带给她。捕获小妹妹前，必须先杀死大老爹，再向她投掷小球。
+\nSaved game to be loaded on startup.\nThese are calculated when the game loads.\nIf one is missing, restart the game to have it appear.\n	启动时自动载入的存档。存档列表在启动时生成；若有遗漏，请重启游戏。
+\nWhether or not to play certain sounds based on the position of the source.\nExamples are magic casting, eating/drinking, and damage.\n	根据声源位置播放左右声道效果，例如施法、进食、饮水和受伤音效。
+\nFullscreen mode.\n'Full screen' will use a hardware fullscreen mode.\n'Desktop fullscr' will create a borderless window the same size as the screen.\n	选择显示模式。全屏模式使用硬件全屏；无边框全屏创建与屏幕同大的无边框窗口。
+\nScreen resolution to use.\nThe available options may change depending on the graphics hardware you use.\n	选择游戏分辨率。可用选项取决于显卡和显示设备。
+\nPlay heartbeat sound when health is low.\nThe threshold to play at is configurable.\n	生命较低时播放心跳声，可设置触发阈值。
+\nSkip displaying random event popup windows.\nRandom events will still occur. In most cases, a default option will be chosen.\n	不显示随机事件弹窗。事件仍会发生，多数情况下会自动选择默认选项。
+\nEnable or disable network-related features.\nThe following options are available only if the option is set to Yes.\n	开启或关闭网络功能。只有启用网络后，下列设置才可使用。
+\nIf you set the option Yes, your character's name is replaced with a random name\nwhen sending chat, death or wish log.\nWhen you register your name, the converted one is used, too.\n	发送聊天、死亡或许愿记录时，用随机姓名替代角色名。登记姓名时也使用替代名称。
+\nIf you set the option Yes, your character's alias is replaced with a random alias\nwhen sending chat, death or wish log.\nWhen you register your alias, the converted one is used, too.\n	发送聊天、死亡或许愿记录时，用随机称号替代角色称号。登记称号时也使用替代称号。
+\nSet the interval between receiving chat, death wish and news log.\n	设置接收聊天、死亡、许愿记录及新闻的间隔。
+\nShow scrolling animations when running.\nTurning this off can speed up running somewhat.\n	奔跑时播放滚动动画。关闭后可能稍微加快奔跑速度。
+\nNumber of frames to wait for most animations/actions.\nFor example, it controls the amount of delay for input polling.\n	大部分动画与操作之间等待的帧数，也会影响输入轮询延迟。
+\nNumber of frames to wait for animations.\nThis also acts as multiplier for the speed of auto-turn actions.\n	动画等待帧数，也会影响自动回合操作的速度。
+\nNumber of frames to wait if an important message is received.\nThese are: leveling up, leveling up a skill, or having a change in hunger status.\n	收到重要消息时等待的帧数，包括角色升级、技能升级与饥饿状态变化。
+\nSpeed of auto-turn actions.\nThis is also affected by 'Animation Wait'.\n	自动回合操作的速度，也受“动画等待”设置影响。
+\nPlay animations at the title screen.\n	在标题画面播放动画。
+\nNumber of frames to wait between updates to animations in the screen, like rain/lighting.\nThis does not affect key delay or animations that block input.\n	雨、闪电等画面动画的刷新等待帧数，不影响按键延迟或阻塞输入的动画。
+\nIf Numlock is on, turns off Numlock while playing and turns it back on again after exiting.\nIt can fix issues related to holding Shift and a numpad movement key at the same time.\nThis only has an effect on Windows.\n	游戏中关闭数字锁定，退出后恢复。可解决Shift与数字键盘移动键的冲突，仅对Windows有效。
+\nEnable gamepads.\nCurrently unimplemented.\n	原版手柄输入选项尚未实现。本移植的RG34XX实体按键独立适配，无需开启此项。
+\nFont-related settings.\nPlace fonts (TTF format) in data/font. Please ensure the fonts are monospaced to avoid issues.\n	字体相关设置。TTF字体放在data/font目录；建议使用等宽字体以避免排版问题。
+\nVertical text offset for certain menu titles.\n	部分菜单标题文字的垂直偏移。
+\nSize adjustment for certain pieces of text.\n	调整部分文字的字号。
+\nText rendering quality. High is beautiful, but slow. Low is cheap, but fast.\n	文字渲染质量。高质量较美观但较慢，低质量较快。
+\nAdd a turn timestamp to each message received.\n	为收到的每条消息添加回合时间。
+\nInterval in days it takes shops to restock items.\nIf 0, the item selection will change each time you interact with a shopkeeper.\n	商店补货间隔，单位为天。设为0时，每次与店主交谈都会刷新商品。
+\nIncreases the number of trackable skills to 10 and colorizes potential.\n	将可追踪技能增加到10项，并用颜色标示潜力。
+\nPotential below this amount will be colored red in the skill tracker.\nOnly has an effect when used with 'Allow enhanced skill tracking'.\n	技能追踪中，潜力低于此值时显示红色。需开启“增强技能追踪”。
+\nPotential above this amount will be colored green in the skill tracker.\nOnly has an effect when used with 'Allow enhanced skill tracking'.\n	技能追踪中，潜力高于此值时显示绿色。需开启“增强技能追踪”。
+\nDisplay a leash icon for leashed pets.\n	为被牵引绳拴住的同伴显示图标。
+\nAutomatically save the game at certain intervals.\nThese include (but are not limited to):\nUsing scrolls of create material.\nUsing potions of gain potential.\nOpening chests/material boxes.\n	在特定时机自动保存，包括使用素材生成卷轴、潜力药水，以及打开宝箱或素材箱等。
+\nMaximum amount of damage popups to render.\nOnly has an effect when used with 'Damage popup'.\n	同时显示的伤害数字数量上限。需开启“伤害数字”。
+\nRun a script in the data/script/ folder at startup.\nProvide a script's name, like 'my_script.lua' for 'data/script/my_script.lua'.\n	启动时运行data/script目录中的脚本。填写脚本文件名，例如my_script.lua。
+\nSettings provided by individual mods.\nThese can be created by editing the config-schema.lua file in the mod's folder.\n	各模组提供的设置。可通过编辑模组目录中的config-schema.lua文件添加。
+
+# rg34xx12: equipment, enchantments, settings, quests and activities
+not used in the game	游戏中未使用。
+A double-edged sword	一把双刃剑。
+A small double-edged weapon used for close combat,	用于近身战斗的小型双刃武器。
+A small single-bladed axe,	一把小型单刃斧。
+A blunt weapon with a round end that is sometimes spiked,	头部呈圆形的钝器，有时带有尖刺。
+A hat mages often wear,	法师常戴的帽子。
+An exotic hat crafted by faeries,	妖精制作的奇特帽子。
+An armor that offers decent protection,	能提供不错防护的铠甲。
+A common robe,	一件普通的长袍。
+Gloves often worn by nobility,	贵族常戴的手套。
+A pair of gauntlets made mostly of thick leather,	主要用厚皮革制成的护手。
+Boots made for travel,	适合旅行的靴子。
+A pair of boots with an armored mesh,	带有金属网防护的靴子。
+A pretty ring,	一枚漂亮的戒指。
+A magical scroll with arcane writing,	写有奥秘文字的魔法卷轴。
+A wooden rod,	一根木制魔杖。
+A rod made out of steel,	钢制魔杖。
+A yellowed tome whose words seem to move on their own/	泛黄的书卷，文字似乎会自行移动。
+A yellowed tome that contains the secret of any item,	泛黄的书卷，记载着物品的秘密。
+A tome often carried by priests,	祭司常携带的书卷。
+A leather bound book,	皮革封面的书。
+A book with watermarks,	带有水渍的书。
+generated when failed to create an item	创建物品失败时生成。
+A bottle of murky water,	一瓶浑浊的水。
+Sometimes carried by prostitutes,	有时能在妓女身上找到。
+A label says \"\"Please do not drink to identify contents,\"	标签写着「请勿通过饮用来鉴定内容物」。
+A label dictates \"\"For medical use only,\"	标签写着「仅限医用」。
+A label says \"\"Do not inhale,\"	标签写着「请勿吸入」。
+crim is some kind of addictive berry	克里姆是一种会使人上瘾的浆果。
+The tome is cool to the touch,	书卷摸起来冰凉。
+The tome is strangely warm,	书卷异常温暖。
+This tome lets off a static discharge,	书卷释放出静电。
+Not dry enough to burn easily,	不够干燥，不容易烧起来。
+A useless stone that seems to break apart into sand when touched,	一块无用的石头，仿佛一碰就会碎成沙。
+Stinky,,,	臭烘烘的……
+Why would you take the time to collect the broken pieces?!?	为什么要花时间捡这些碎片呢？！
+North Tyris laws have harsh penalties for polluting water,	北提里斯的法律严惩污染水源的行为。
+You smell something strange burning,	你闻到一种奇怪的焦味。
+Comes with its own support so it does not touch the ground,	自带支架，不会直接接触地面。
+The materials can probably be salvaged,	或许还能回收一些材料。
+Some bones are valuable	有些骨头很值钱。
+Bones of an unknown creature,	不明生物的骨头。
+Please do not kick the tombstones,	请勿踢墓碑。
+Standard currency of North Tyris,	北提里斯的通用货币。
+Rare coins used by the guilds for currency,	公会使用的稀有货币。
+This sword seems to be sentient,	这把剑似乎拥有意识。
+Sword rumored to cut through anything,	传说能斩断万物的剑。
+A bow specifically designed to shoot further than a short bow,	比短弓射程更远的弓。
+A shield given to knights,	授予骑士的盾牌。
+Made by Cyber Dome In	电子巨蛋出品。
+Hand forged arrows,	手工锻造的箭矢。
+This weapon's very existence defies all logic,	这件武器的存在本身就违背常理。
+An evil black sword surrounded with an aura of dread,	笼罩着恐怖气息的邪恶黑剑。
+Designed for children and smaller races,	为儿童和体型较小的种族设计。
+A type of belt,	一种腰带。
+A cute amulet,	可爱的护身符。
+A potion that cures some wounds,	能治疗伤势的药水。
+It's said that only a god can use its true power,	据说只有神才能发挥它真正的力量。
+A potion made by a talented alchemist cures some wounds,	天才炼金术师调制的治疗药水。
+A potion whose formula was created by Jure herself,	配方由朱亚亲自创制的药水。
+A chair for a small child or a fairy,	供小孩或妖精使用的椅子。
+Because there is no public library in Nort Tyris,	毕竟北提里斯没有公共图书馆。
+A place to keep your spare clothes,	存放换洗衣物的地方。
+A cute stuffed teddy bear,	可爱的泰迪熊玩偶。
+A child's toy,	儿童玩具。
+A table made with Cyber Dome technology,	用电子巨蛋技术制造的桌子。
+A hand crafted dining table,	手工制作的餐桌。
+Armor on display,	用于展示的铠甲。
+A display case for various gift items,	陈列各种礼物的展示柜。
+A beautifully crafted piano,	制作精美的钢琴。
+A table holding alcohol,	摆着酒的桌子。
+A table with coasters and peanut boxes,	摆着杯垫和花生盒的桌子。
+A barrel for storing items,	用于储物的木桶。
+A chair made in Asseria,	阿瑟利亚制造的椅子。
+A pick sometimes used for mining,	有时被用于采矿的镐。
+A light source,	一种光源。
+A set of decorative armor,	一套装饰用铠甲。
+An anvil used for blacksmithing,	锻造用的铁砧。
+A covered pot,	带盖的罐子。
+An uncovered pot,	没有盖子的罐子。
+A desk used for students in Asseria schools,	阿瑟利亚学校里的学生课桌。
+A potions rack,	摆放药水的架子。
+An everyday chair,	普通的椅子。
+More like a foot stool,	看起来更像脚凳。
+A cupboard to store dishes,	存放餐具的橱柜。
+A shelf containing books on crafting,	摆着工艺书籍的架子。
+A closet for storing items,	存放物品的柜子。
+Toss a coin in,	投一枚硬币进去吧。
+A furnace used for smithing,	锻造用的熔炉。
+A dwarven oven,	矮人制造的烤炉。
+The words in this tome do not seem to stay in one place,	书卷上的文字似乎一直在移动。
+This basket is made out of wicker,	用柳条编成的篮子。
+You can swear you hear growling,	你确信自己听到了低吼。
+A wooden rod with a cloth grip,	握柄缠着布的木制魔杖。
+A rod made out of iron,	铁制魔杖。
+A heavy rod,	沉重的魔杖。
+A rod made out of wood,	木制魔杖。
+A rod made out of metal,	金属制魔杖。
+A shelf of bread for display,	陈列面包的架子。
+A decorated wooden rod with a cloth grip,	带装饰的木制魔杖，握柄缠着布。
+Fragile scientific equipment,	易碎的科学仪器。
+An alchemy kit with tools for basic alchemy,	包含基础炼金工具的套装。
+An ancient religious symbol now containing six points!	古老的宗教符号，现在有六个角！
+Plants in a pot,	花盆里的植物。
+A symbol of love,	爱的象征。
+A decorative plant,	装饰植物。
+An herb used to season food,	用于调味的香草。
+Decorative flowers,	装饰用花朵。
+A type of herb,	一种药草。
+Has seeds that can be dangerous to your pets,	种子可能危害你的宠物。
+A symbol of love towards one's parents,	表达对父母之爱的象征。
+A pillar designed after one's common in Eludernia,	模仿艾鲁德尼亚常见样式制作的柱子。
+A canvas used for painting on,	绘画用的画布。
+A map of Elona,	伊洛纳的地图。
+A tool used to cook food in Asseria,	阿瑟利亚的烹饪工具。
+A display of bows,	展示用的弓。
+A display of weapons,	展示用的武器。
+A decorative cloth often used as a clothing store display,	服装店常用的装饰布。
+A decorative cloth often used as a display for armor stores,	防具店常用的装饰布。
+A shelf or armor,	陈列铠甲的架子。
+This is just a mess!	真是一团糟！
+A disorderly stacks of books,	杂乱堆放的书籍。
+A nicely crafted piece of furniture,	制作精良的家具。
+A nicely crafted bookshelf,	制作精良的书架。
+Often found in bars,	常见于酒吧。
+Part of a kitchen set,	厨房用具的一部分。
+The water is dirty...	水很脏……
+The other half of a kitchen set,	另一部分厨房用具。
+A dining room table,	餐厅里的桌子。
+Keep your elbows off the table!	别把胳膊肘放在桌上！
+An ornamental candlestick,	装饰烛台。
+A shelf for your dining room,	餐厅用的架子。
+An sewing kit intended for clothing repair,	修补衣物的缝纫工具。
+Used to craft some wooden items,	用于制作木制品。
+A pile of laundry,	一堆待洗的衣服。
+Silk cloth woven by faeries,	妖精织成的丝绸。
+A common style grave that has started to crumble,	开始破损的普通坟墓。
+A common style grave that has been destroyed,	已经坍塌的普通坟墓。
+A recent grave with flowers for the departed... The name is still readable,	献着鲜花的新坟，墓碑上的名字仍可辨认。
+A recent grave... The name is still readable,	一座新坟，墓碑上的名字仍可辨认。
+A tome of a rich or heroic figure,	富豪或英雄人物的陵墓。
+An ancient Euldernan style tomb,	古代艾鲁德尼亚风格的陵墓。
+An old norland tomb,	古老的北地陵墓。
+An altar to the gods	献给诸神的祭坛。
+An altar for rituals to give tribute to the gods,	向诸神献祭时使用的仪式祭坛。
+Throw a coin in,	扔一枚硬币进去吧。
+A rod made out of bronze,	青铜魔杖。
+A rod with a silver tip,	尖端包银的魔杖。
+A type of vegetation,	一种植物。
+A type of vegetable,	一种蔬菜。
+A type of fruit,	一种水果。
+A set of decorative dishes,	一套装饰餐具。
+A nut used to make candy	用来制作糖果的坚果。
+A rod plated with adamantium,	镀有精金的魔杖。
+A corpse of an unknown creature,	不明生物的尸体。
+A bottle of dwarven whisky,	一瓶矮人威士忌。
+This dagger seems to be made out of wind,	这把匕首仿佛由风构成。
+What a waste of time......,	真是浪费时间……
+It's just a stone	只是一块石头。
+A farmer's tool for harvesting crops,	农夫收割庄稼的工具。
+A staff used in a variety of ways,	用途广泛的杖。
+A polearm with a sharp point,	带有尖锐枪头的长柄武器。
+Pretty worthless,	不怎么值钱。
+They still smell of alcohol,	仍能闻到酒味。
+It's empty,	里面是空的。
+I'm not sure I want to eat this,	我不确定自己想吃这东西。
+You start to practice your knots on this piece of rope,	你开始用这根绳子练习打结。
+Hiding one of these is a popular prank in North Tyris...	把它藏起来是北提里斯常见的恶作剧……
+This can be useful to the right person,	对合适的人来说，它或许有用。
+Probably leftovers from a meal,	大概是一顿饭剩下的东西。
+Useful for cooking!	做饭时很有用！
+A unique curved sword made through a folding process,	反复折叠锻打而成的独特弯剑。
+A curved sword,	一把弯刀。
+A large double-bladed axe	一把大型双刃斧。
+A tool that is sometimes adopted as a weapon	有时被当作武器使用的工具。
+A three pronged polearm,	带有三个尖头的长柄武器。
+A staff used primarily as a weapon and sometimes for magic,	主要用于战斗，也可用于施法的杖。
+A standard easy to use bow,	标准的弓，容易使用。
+A large sword normally held in two hands,	通常需要双手握持的大剑。
+A single-bladed axe resembling a polearm,	类似长柄武器的单刃斧。
+A weapon resembling a spear with the head of an axe,	枪头装有斧刃的长柄武器。
+An ancient jeweled chest,	古老的镶宝石宝箱。
+A heavy chest,	沉重的宝箱。
+It might not be safe to carry...	带着它可能不太安全……
+A tome that makes you aware of your surroundings,	让你感知周围环境的书卷。
+A tome of prophecys,	记载预言的书卷。
+A tome that allows a person to return to specific places containing a rift,	让人回到特定时空裂隙所在地点的书卷。
+This tome has carefully been taken care of,	保养细致的书卷。
+This tome has been carefully preserved,	保存完好的书卷。
+A tome of arcane healing,	记载治疗秘术的书卷。
+A tome of words written by Jure herself,	朱亚亲自书写的书卷。
+A bottle of beer,	一瓶啤酒。
+A horn imported from Marr Nis Farra,	从马尔尼斯法拉进口的号角。
+Due to magic these logs never burn up,	受魔法影响，这些木柴永远烧不完。
+A cooking set popular among adventurers,	深受冒险者欢迎的烹饪工具。
+A tome that teaches how to use magical energy,	教授魔力运用方法的书卷。
+A loaf of baked bread,	一条烤好的面包。
+This would taste better cooked,	煮熟后应该更好吃。
+Flour used for baking,	烘焙用的面粉。
+A type of fish,	一种鱼。
+
+# rg34xx12: equipment, enchantments, settings, quests and activities
+potion	药水
+spellbook	魔法书
+scroll	卷轴
+rod	魔杖
+clear	透明的
+green	绿色的
+blue	蓝色的
+gold	金色的
+brown	棕色的
+red	红色的
+thick	厚重的
+mossy	长满青苔的
+luxurious	奢华的
+old	陈旧的
+bloody	染血的
+blurred	模糊的
+ragged	破损的
+boring	无趣的
+ivy	常春藤
+sapphire	蓝宝石
+golden	黄金
+wooden	木制
+rusty	生锈的
+stupid	滑稽的
+lame	蹩脚的
+cool	酷炫的
+madam's favorite	贵妇钟爱的
+bewitched	受魔法迷惑的
+maniac	狂热的
+magnificent	华丽的
+royal	皇家的
+masterpiece	杰作级
+heavenly	天界的
+godly	神级
+extremely mini	极其迷你
+small	小型
+handy	轻巧
+rather big	较大
+huge	巨大
+pretty huge	非常巨大
+monstrous-size	怪物般巨大
+bigger than a man	比人还大
+legendary-size	传说级大小
+heavier than an elephant	比大象还重
+cheap	廉价的
+so so	一般的
+exciting	令人兴奋的
+expensive	昂贵的
+hot and gorgeous	耀眼华美的
+crazy epic	惊世传奇的
+water flea	水蚤
+grasshopper	蚱蜢
+ladybug	瓢虫
+dragonfly	蜻蜓
+locust	蝗虫
+beetle	甲虫
+bug	虫子
+goldfish	金鱼
+turtle	乌龟
+bitterling	鳑鲏
+tadpole	蝌蚪
+swimming trunks	泳裤
+dirty long boots	脏长靴
+carp	鲤鱼
+eel	鳗鱼
+goby	虾虎鱼
+sea bream	鲷鱼
+empty can	空罐头
+broken machine	损坏的机器
+sculpin	杜父鱼
+sea bass	海鲈鱼
+sea urchin	海胆
+red sea bream	真鲷
+dirty ring	脏戒指
+sword fish	剑鱼
+ancient fish	古代鱼
+broken umbrella	破伞
+hairpiece	假发
+bonito	鲣鱼
+sweetfish	香鱼
+yellow jack	黄鲹
+black bass	黑鲈
+ashore from the north	北方漂来的鱼
+pornographic book	色情书刊
+mackerel	鲭鱼
+big tuna fish	大金枪鱼
+remora	吸盘鱼
+whale	鲸鱼
+empty box	空箱子
+broken cell phone	坏手机
+
+# rg34xx12: equipment, enchantments, settings, quests and activities
+Pay: About {$1} gold pieces 	报酬：约{$1}枚金币
+\nDeadline: {$1} Days left	\n期限：还剩{$1}天
+EX Arena Wins:{$1}  Highest Level:{$2}	扩展竞技场 胜场：{$1} 最高等级：{$2}
+Salary (Paid every 1st and 15th day)	工资（每月1日与15日发放）
+@BL  Sum    : About {$1} GP	@BL 总计：约{$1}金币
+Bills  (Issued every 1st day)	账单（每月1日寄送）
+@RE  Labor  : About {$1} GP	@RE 人工费：约{$1}金币
+@RE  Maint. : About {$1} GP	@RE 维护费：约{$1}金币
+@RE  Tax    : About {$1} GP	@RE 税金：约{$1}金币
+@RE  Sum    : About {$1} GP	@RE 总计：约{$1}金币
+You have {$1} unpaid bills.	你有{$1}张未付账单。
+Arena champion	竞技场冠军
+Super elite gladiator	超级精英角斗士
+Star gladiator	明星角斗士
+Elite gladiator	精英角斗士
+Veteran gladiator	老练角斗士
+Popular gladiator	人气角斗士
+New hope	新星
+Darkhorse	黑马
+Low class fighter	低阶斗士
+Unknown fighter	无名斗士
+Arena	竞技场
+King of tamer	驯兽之王
+Super elite tamer	超级精英驯兽师
+Prince of animals	百兽王子
+Chief of animals	百兽首领
+Elite tamer	精英驯兽师
+Notorious tamer	恶名昭著的驯兽师
+Average tamer	普通驯兽师
+Petty tamer	低阶驯兽师
+Unknown tamer	无名驯兽师
+Pet Arena	宠物竞技场
+King of Nefia	奈菲亚之王
+Champion of labyrinth	迷宫冠军
+Dungeon master	地下城大师
+Famous adventurer	著名冒险者
+Children's star	孩子们的偶像
+Guide of Nefia	奈菲亚向导
+Notorious tomb robber	恶名昭著的盗墓者
+Tomb robber	盗墓者
+Famous tourist	著名游客
+Crawler	地下城探索者
+Tyris' greatest museum	提里斯第一博物馆
+Royal museum	皇家博物馆
+Great museum	大型博物馆
+Top museum	顶级博物馆
+Good museum	优秀博物馆
+Average museum	普通博物馆
+Small museum	小型博物馆
+Unknown museum	无名博物馆
+Unknown Ruin	无名废墟
+Heaven of Tyris	提里斯的天堂
+Royal mansion	皇家宅邸
+Celebrity mansion	名人豪宅
+Dream mansion	梦幻豪宅
+Cozy mansion	舒适宅邸
+Attractive house	迷人住宅
+Average house	普通住宅
+Poor house	简陋住宅
+Peasant's shack	农夫小屋
+Beggar's shack	乞丐小屋
+Tyris' greatest mall	提里斯第一商城
+Royal mall	皇家商城
+Prosperous mall	繁荣商城
+Celebrity shop	名人商店
+Prosperous shop	繁荣商店
+Popular shop	人气商店
+Average shop	普通商店
+Small shop	小商店
+Souvenir shop 	纪念品店
+Unknown shop	无名商店
+Boss	领袖
+King's advisor	国王顾问
+Elite consultant	精英顾问
+Famous consultant	著名顾问
+Model voter	模范选民
+Nice voter	优秀选民
+Infamous voter	声名狼藉的选民
+Average voter	普通选民
+Indifferent voter	冷漠的选民
+Almost voter	候补选民
+Community	社区
+Grand master	宗师
+Master	大师
+Adept	行家
+Expert	专家
+Journeyman	熟练工
+Senior	资深成员
+Apprentice	学徒
+Official member	正式成员
+Candidate	候补成员
+Thug	打手

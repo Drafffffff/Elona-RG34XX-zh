@@ -1,0 +1,74 @@
+/src/build/h700/Elona_foobar
+ 0x0000000000000001 (NEEDED)             Shared library: [libz.so.1]
+ 0x0000000000000001 (NEEDED)             Shared library: [libdl.so.2]
+ 0x0000000000000001 (NEEDED)             Shared library: [libSDL2-2.0.so.0]
+ 0x0000000000000001 (NEEDED)             Shared library: [libSDL2_image-2.0.so.0]
+ 0x0000000000000001 (NEEDED)             Shared library: [libSDL2_ttf-2.0.so.0]
+ 0x0000000000000001 (NEEDED)             Shared library: [libSDL2_mixer-2.0.so.0]
+ 0x0000000000000001 (NEEDED)             Shared library: [libpthread.so.0]
+ 0x0000000000000001 (NEEDED)             Shared library: [libm.so.6]
+ 0x0000000000000001 (NEEDED)             Shared library: [libc.so.6]
+  0x0010:   Name: GLIBC_2.17  Flags: none  Version: 6
+  0x0030:   Name: GLIBC_2.17  Flags: none  Version: 4
+  0x0050:   Name: GLIBC_2.25  Flags: none  Version: 5
+  0x0060:   Name: GLIBC_2.17  Flags: none  Version: 3
+  0x0080:   Name: GLIBC_2.17  Flags: none  Version: 2
+/src/work/sdk-libs/libSDL2-2.0.so.0
+ 0x0000000000000001 (NEEDED)             Shared library: [libm.so.6]
+ 0x0000000000000001 (NEEDED)             Shared library: [libdl.so.2]
+ 0x0000000000000001 (NEEDED)             Shared library: [libsamplerate.so.0]
+ 0x0000000000000001 (NEEDED)             Shared library: [libpthread.so.0]
+ 0x0000000000000001 (NEEDED)             Shared library: [libc.so.6]
+  0x0010:   Name: GLIBC_2.17  Flags: none  Version: 6
+  0x0050:   Name: GLIBC_2.17  Flags: none  Version: 4
+  0x0070:   Name: GLIBC_2.17  Flags: none  Version: 3
+  0x0090:   Name: GLIBC_2.17  Flags: none  Version: 2
+/src/work/sdk-libs/libSDL2_image-2.0.so.0
+ 0x0000000000000001 (NEEDED)             Shared library: [libSDL2-2.0.so.0]
+ 0x0000000000000001 (NEEDED)             Shared library: [libc.so.6]
+  0x0010:   Name: GLIBC_2.17  Flags: none  Version: 2
+/src/work/sdk-libs/libSDL2_mixer-2.0.so.0
+ 0x0000000000000001 (NEEDED)             Shared library: [libSDL2-2.0.so.0]
+ 0x0000000000000001 (NEEDED)             Shared library: [libmad.so.0]
+ 0x0000000000000001 (NEEDED)             Shared library: [libm.so.6]
+ 0x0000000000000001 (NEEDED)             Shared library: [libgcc_s.so.1]
+ 0x0000000000000001 (NEEDED)             Shared library: [libc.so.6]
+  0x0040:   Name: GLIBC_2.17  Flags: none  Version: 3
+  0x0060:   Name: GLIBC_2.17  Flags: none  Version: 2
+/src/work/sdk-libs/libSDL2_ttf-2.0.so.0
+ 0x0000000000000001 (NEEDED)             Shared library: [libm.so.6]
+ 0x0000000000000001 (NEEDED)             Shared library: [libfreetype.so.6]
+ 0x0000000000000001 (NEEDED)             Shared library: [libSDL2-2.0.so.0]
+ 0x0000000000000001 (NEEDED)             Shared library: [libgcc_s.so.1]
+ 0x0000000000000001 (NEEDED)             Shared library: [libc.so.6]
+  0x0010:   Name: GLIBC_2.17  Flags: none  Version: 2
+/src/work/sdk-libs/libbz2.so.1.0
+ 0x0000000000000001 (NEEDED)             Shared library: [libgcc_s.so.1]
+ 0x0000000000000001 (NEEDED)             Shared library: [libc.so.6]
+  0x0010:   Name: GLIBC_2.17  Flags: none  Version: 2
+/src/work/sdk-libs/libfreetype.so.6
+ 0x0000000000000001 (NEEDED)             Shared library: [libz.so.1]
+ 0x0000000000000001 (NEEDED)             Shared library: [libbz2.so.1.0]
+ 0x0000000000000001 (NEEDED)             Shared library: [libgcc_s.so.1]
+ 0x0000000000000001 (NEEDED)             Shared library: [libc.so.6]
+  0x0010:   Name: GLIBC_2.17  Flags: none  Version: 2
+/src/work/sdk-libs/libmad.so.0
+ 0x0000000000000001 (NEEDED)             Shared library: [libgcc_s.so.1]
+ 0x0000000000000001 (NEEDED)             Shared library: [libc.so.6]
+  0x0010:   Name: GLIBC_2.17  Flags: none  Version: 2
+/src/work/sdk-libs/libpng12.so.0
+ 0x0000000000000001 (NEEDED)             Shared library: [libz.so.1]
+ 0x0000000000000001 (NEEDED)             Shared library: [libm.so.6]
+ 0x0000000000000001 (NEEDED)             Shared library: [libgcc_s.so.1]
+ 0x0000000000000001 (NEEDED)             Shared library: [libc.so.6]
+  0x0010:   Name: GLIBC_2.17  Flags: none  Version: 4
+  0x0030:   Name: GLIBC_2.17  Flags: none  Version: 3
+/src/work/sdk-libs/libsamplerate.so.0
+ 0x0000000000000001 (NEEDED)             Shared library: [libm.so.6]
+ 0x0000000000000001 (NEEDED)             Shared library: [libc.so.6]
+  0x0010:   Name: GLIBC_2.17  Flags: none  Version: 6
+  0x0030:   Name: GLIBC_2.17  Flags: none  Version: 5
+/src/work/sdk-libs/libz.so.1
+ 0x0000000000000001 (NEEDED)             Shared library: [libc.so.6]
+ 0x0000000000000001 (NEEDED)             Shared library: [libgcc_s.so.1]
+  0x0010:   Name: GLIBC_2.17  Flags: none  Version: 2

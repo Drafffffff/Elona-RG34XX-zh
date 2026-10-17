@@ -1,0 +1,115 @@
+ELONA.i18n:add {
+   keybind = {
+      menu = {
+         hint = "回车[绑定按键] ",
+
+         topics = {
+            name = "名称",
+            primary = "主按键",
+            alternate = "备用按键",
+            joystick = "摇杆",
+         },
+
+         conflict = {
+            text = "以下按键绑定存在冲突：",
+            prompt = "按回车键解除这些绑定，按Esc取消。",
+         },
+
+         prompt = [=[
+请按下一个按键。
+按回车键解除绑定，按Esc取消。
+]=],
+      },
+
+      category = {
+         default = "默认",
+         shortcut = "快捷键",
+         selection = "选择",
+         menu = "菜单",
+         game = "游戏",
+         wizard = "魔法师",
+      },
+
+      escape = "Esc",
+      cancel = "取消",
+      enter = "回车",
+      north = "北",
+      south = "南",
+      east = "东",
+      west = "西",
+      northwest = "西北",
+      northeast = "东北",
+      southwest = "西南",
+      southeast = "东南",
+
+      -- NOTE: has special name formatting behavior
+      shortcut = "快捷键 ",
+
+      -- NOTE: has special name formatting behavior
+      select = "选择 ",
+
+      next_page = "下一页",
+      previous_page = "上一页",
+      next_menu = "下一个菜单",
+      previous_menu = "上一个菜单",
+      switch_mode = "切换模式",
+      switch_mode_2 = "切换模式（2）",
+      identify = "查看详情",
+      portrait = "人物肖像菜单",
+
+      wait = "等待",
+      quick_menu = "快捷菜单",
+      zap = "使用魔杖",
+      inventory = "物品栏",
+      quick_inventory = "快捷物品栏",
+      get = "拾取",
+      drop = "丢弃",
+      chara_info = "角色信息",
+      eat = "进食",
+      wear = "装备",
+      cast = "施法",
+      drink = "饮用",
+      read = "阅读",
+      fire = "射击",
+      go_down = "下楼",
+      go_up = "上楼",
+      save = "保存",
+      search = "搜索",
+      interact = "互动",
+      skill = "技能",
+      close = "关闭",
+      rest = "休息",
+      target = "目标",
+      dig = "挖掘",
+      use = "使用",
+      bash = "撞击",
+      open = "打开",
+      dip = "浸入",
+      pray = "祈祷",
+      offer = "献祭",
+      journal = "任务日志",
+      material = "素材",
+      trait = "特性",
+      look = "观察",
+      give = "交给",
+      throw = "投掷",
+      ammo = "弹药",
+      autodig = "自动挖掘",
+      quicksave = "快速保存",
+      quickload = "快速读取",
+      help = "帮助",
+      message_log = "消息记录",
+      chat_box = "聊天框",
+      tcg = "开始卡牌游戏",
+      update_screen = "刷新画面",
+      dump_player_info = "导出玩家信息",
+      reload_autopick = "重新载入自动拾取设置",
+      screenshot = "截取画面",
+      open_console = "打开控制台",
+
+      wizard_mewmewmew = "喵喵喵！",
+      wizard_wish = "许愿",
+      wizard_advance_time = "推进时间",
+      wizard_delete_map = "删除地图",
+   },
+}

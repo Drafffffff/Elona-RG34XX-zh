@@ -1,0 +1,8 @@
+work/
+build/
+dist/
+source/
+source-stable/
+.DS_Store
+__pycache__/
+*.pyc

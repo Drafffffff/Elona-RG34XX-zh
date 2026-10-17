@@ -1,0 +1,17 @@
+2026-10-12 — rg34xx2 controller integration
+ARM64 Linux + Xvfb + desktop SDL core; target media libraries and fonts.
+Input: test-only LD_PRELOAD SDL_PollEvent hook, joystick buttons and hat only.
+No keyboard events from the injector. Screens inspected manually.
+PASS language picker Down + A from a clean state directory.
+PASS race, gender, class, attributes, feats including L paging, alias, appearance.
+PASS character confirmation and OSK name 123 using A, directions, START.
+PASS story advancement, home dialogue, diagonal movement, X inventory/item view.
+PASS save/exit, second A to exit process; header.json name=123, location=Your Home.
+PASS new process reload using A twice; same map/character/inventory.
+PASS MENU+R reading lens, pan/close; Y action panel -> equipment.
+Updated engine layouts separately visually checked at 720x480.
+Pending: actual RG34XX evdev, Mali/EGL, speaker, performance, suspend/resume.
+
+rg34xx3: PASS final engine character/skills pages, R/L paging, R2/L2 composite switch, B map return with full HUD restoration; save/exit.
+
+rg34xx4: menu repeat/quick-tap correction; quantity/drop/pickup/cancel and skill/target checks recorded in gameplay-test.log.
